@@ -1,0 +1,1001 @@
+Name,Age,Income,Employment_Status,Loan_Amount,Credit_Score,Debt_To_Income,Loan_Term,Address,Contact_Info,Eligibility
+User_0,59,29018,Employed,21184,472,0.31,12,Address_0,user0@email.com,Needs Review
+User_1,49,36302,Self-Employed,38787,461,0.46,24,Address_1,user1@email.com,Eligible
+User_2,35,92506,Self-Employed,26621,562,0.46,12,Address_2,user2@email.com,Not Eligible
+User_3,63,66157,Employed,15028,573,0.43,12,Address_3,user3@email.com,Eligible
+User_4,28,79917,Self-Employed,17448,302,0.3,24,Address_4,user4@email.com,Eligible
+User_5,41,117738,Employed,39051,327,0.39,36,Address_5,user5@email.com,Eligible
+User_6,59,121646,Employed,35447,625,0.31,60,Address_6,user6@email.com,Not Eligible
+User_7,39,108122,Employed,23394,448,0.45,24,Address_7,user7@email.com,Eligible
+User_8,43,49519,Employed,39501,839,0.26,36,Address_8,user8@email.com,Needs Review
+User_9,31,121809,Self-Employed,35254,787,0.49,24,Address_9,user9@email.com,Eligible
+User_10,31,112487,Employed,23509,737,0.47,36,Address_10,user10@email.com,Eligible
+User_11,44,81819,Employed,19472,364,0.4,24,Address_11,user11@email.com,Eligible
+User_12,56,105910,Self-Employed,8471,655,0.21,36,Address_12,user12@email.com,Not Eligible
+User_13,60,145430,Self-Employed,46796,832,0.15,24,Address_13,user13@email.com,Not Eligible
+User_14,44,96324,Unemployed,35268,551,0.44,36,Address_14,user14@email.com,Eligible
+User_15,23,30408,Self-Employed,13329,534,0.17,24,Address_15,user15@email.com,Not Eligible
+User_16,42,84379,Self-Employed,39865,526,0.44,60,Address_16,user16@email.com,Eligible
+User_17,22,50053,Unemployed,33272,824,0.3,60,Address_17,user17@email.com,Not Eligible
+User_18,44,34446,Self-Employed,47845,612,0.26,12,Address_18,user18@email.com,Not Eligible
+User_19,64,25922,Self-Employed,11397,348,0.46,36,Address_19,user19@email.com,Eligible
+User_20,50,123723,Self-Employed,37373,417,0.34,24,Address_20,user20@email.com,Eligible
+User_21,58,76356,Self-Employed,40525,353,0.33,36,Address_21,user21@email.com,Needs Review
+User_22,22,35789,Unemployed,29570,343,0.32,60,Address_22,user22@email.com,Not Eligible
+User_23,41,122720,Self-Employed,23284,352,0.25,36,Address_23,user23@email.com,Eligible
+User_24,53,91656,Self-Employed,23994,824,0.41,24,Address_24,user24@email.com,Eligible
+User_25,32,69028,Unemployed,28284,401,0.2,36,Address_25,user25@email.com,Eligible
+User_26,42,89484,Employed,22833,697,0.48,24,Address_26,user26@email.com,Eligible
+User_27,64,57154,Unemployed,30122,437,0.46,60,Address_27,user27@email.com,Not Eligible
+User_28,45,107870,Employed,10017,686,0.23,60,Address_28,user28@email.com,Not Eligible
+User_29,47,27336,Unemployed,21370,410,0.39,60,Address_29,user29@email.com,Eligible
+User_30,62,128677,Unemployed,34252,316,0.33,12,Address_30,user30@email.com,Eligible
+User_31,48,92779,Self-Employed,12999,481,0.24,60,Address_31,user31@email.com,Eligible
+User_32,36,44029,Employed,27436,835,0.5,36,Address_32,user32@email.com,Eligible
+User_33,35,84201,Self-Employed,47963,840,0.11,12,Address_33,user33@email.com,Eligible
+User_34,64,57265,Employed,7096,470,0.2,60,Address_34,user34@email.com,Eligible
+User_35,23,127916,Unemployed,30279,708,0.31,36,Address_35,user35@email.com,Eligible
+User_36,57,137250,Unemployed,48363,677,0.31,36,Address_36,user36@email.com,Eligible
+User_37,27,141553,Employed,31201,487,0.34,36,Address_37,user37@email.com,Eligible
+User_38,41,68872,Self-Employed,24715,529,0.4,24,Address_38,user38@email.com,Eligible
+User_39,29,71197,Self-Employed,34309,418,0.35,12,Address_39,user39@email.com,Eligible
+User_40,59,80180,Self-Employed,20078,455,0.34,36,Address_40,user40@email.com,Eligible
+User_41,38,48710,Self-Employed,10105,764,0.12,24,Address_41,user41@email.com,Eligible
+User_42,24,54486,Unemployed,34312,403,0.25,60,Address_42,user42@email.com,Eligible
+User_43,45,96907,Unemployed,7839,801,0.19,36,Address_43,user43@email.com,Eligible
+User_44,34,96895,Unemployed,8384,474,0.21,24,Address_44,user44@email.com,Not Eligible
+User_45,29,89435,Unemployed,48619,720,0.32,36,Address_45,user45@email.com,Needs Review
+User_46,46,65631,Unemployed,47821,433,0.18,12,Address_46,user46@email.com,Not Eligible
+User_47,22,126532,Self-Employed,18493,690,0.22,12,Address_47,user47@email.com,Eligible
+User_48,40,45103,Self-Employed,22069,800,0.19,60,Address_48,user48@email.com,Not Eligible
+User_49,48,89772,Self-Employed,12531,332,0.48,36,Address_49,user49@email.com,Not Eligible
+User_50,27,39382,Self-Employed,42051,354,0.48,24,Address_50,user50@email.com,Eligible
+User_51,64,109291,Unemployed,12736,818,0.34,60,Address_51,user51@email.com,Eligible
+User_52,28,126195,Unemployed,12710,311,0.47,36,Address_52,user52@email.com,Not Eligible
+User_53,55,28756,Unemployed,6619,827,0.41,60,Address_53,user53@email.com,Eligible
+User_54,34,45609,Employed,18975,672,0.34,24,Address_54,user54@email.com,Eligible
+User_55,37,139074,Self-Employed,28252,783,0.1,60,Address_55,user55@email.com,Not Eligible
+User_56,56,41478,Self-Employed,20261,527,0.41,60,Address_56,user56@email.com,Not Eligible
+User_57,60,125978,Unemployed,6431,606,0.38,60,Address_57,user57@email.com,Eligible
+User_58,24,64666,Self-Employed,14067,756,0.35,36,Address_58,user58@email.com,Eligible
+User_59,22,100683,Self-Employed,42481,459,0.4,24,Address_59,user59@email.com,Eligible
+User_60,26,124097,Unemployed,32037,630,0.31,12,Address_60,user60@email.com,Not Eligible
+User_61,62,149714,Employed,14557,524,0.38,36,Address_61,user61@email.com,Eligible
+User_62,24,125420,Employed,14435,803,0.47,12,Address_62,user62@email.com,Eligible
+User_63,49,96315,Employed,42766,755,0.25,12,Address_63,user63@email.com,Not Eligible
+User_64,38,102834,Unemployed,5162,344,0.38,36,Address_64,user64@email.com,Eligible
+User_65,46,39153,Self-Employed,39742,513,0.29,36,Address_65,user65@email.com,Not Eligible
+User_66,64,134415,Unemployed,24675,358,0.37,24,Address_66,user66@email.com,Eligible
+User_67,54,101325,Unemployed,13461,494,0.41,24,Address_67,user67@email.com,Eligible
+User_68,30,134701,Self-Employed,22015,788,0.12,60,Address_68,user68@email.com,Not Eligible
+User_69,56,37999,Employed,37591,456,0.36,12,Address_69,user69@email.com,Eligible
+User_70,34,80318,Employed,33047,525,0.19,24,Address_70,user70@email.com,Eligible
+User_71,51,25814,Unemployed,39782,711,0.37,60,Address_71,user71@email.com,Eligible
+User_72,35,140033,Employed,14833,504,0.29,24,Address_72,user72@email.com,Not Eligible
+User_73,28,101077,Unemployed,12896,378,0.41,36,Address_73,user73@email.com,Needs Review
+User_74,34,115474,Unemployed,37972,423,0.15,24,Address_74,user74@email.com,Needs Review
+User_75,43,27443,Self-Employed,46800,770,0.35,12,Address_75,user75@email.com,Eligible
+User_76,60,100993,Self-Employed,35508,517,0.21,24,Address_76,user76@email.com,Eligible
+User_77,41,100916,Self-Employed,10347,815,0.44,12,Address_77,user77@email.com,Eligible
+User_78,36,98319,Unemployed,35314,403,0.47,36,Address_78,user78@email.com,Not Eligible
+User_79,38,134777,Self-Employed,7643,692,0.5,12,Address_79,user79@email.com,Eligible
+User_80,44,42368,Employed,45785,733,0.42,24,Address_80,user80@email.com,Needs Review
+User_81,46,40328,Employed,23681,630,0.4,60,Address_81,user81@email.com,Eligible
+User_82,45,81942,Unemployed,43328,442,0.19,36,Address_82,user82@email.com,Needs Review
+User_83,61,116751,Unemployed,20892,839,0.23,24,Address_83,user83@email.com,Not Eligible
+User_84,49,124131,Self-Employed,22073,577,0.29,36,Address_84,user84@email.com,Not Eligible
+User_85,35,52306,Unemployed,41768,532,0.41,36,Address_85,user85@email.com,Eligible
+User_86,21,110451,Unemployed,35682,828,0.47,24,Address_86,user86@email.com,Eligible
+User_87,45,64915,Employed,37262,389,0.18,24,Address_87,user87@email.com,Eligible
+User_88,27,62219,Employed,36358,791,0.47,60,Address_88,user88@email.com,Eligible
+User_89,29,105879,Self-Employed,19289,498,0.38,36,Address_89,user89@email.com,Eligible
+User_90,44,136939,Unemployed,12927,661,0.34,36,Address_90,user90@email.com,Eligible
+User_91,21,89644,Unemployed,6171,740,0.18,24,Address_91,user91@email.com,Eligible
+User_92,64,85279,Employed,16918,325,0.12,12,Address_92,user92@email.com,Not Eligible
+User_93,28,78028,Unemployed,46903,324,0.33,24,Address_93,user93@email.com,Not Eligible
+User_94,44,129263,Employed,44110,693,0.36,36,Address_94,user94@email.com,Eligible
+User_95,31,25126,Self-Employed,16929,806,0.18,24,Address_95,user95@email.com,Needs Review
+User_96,37,77329,Employed,7539,600,0.32,60,Address_96,user96@email.com,Eligible
+User_97,28,52632,Unemployed,41727,638,0.44,12,Address_97,user97@email.com,Eligible
+User_98,55,132099,Self-Employed,27669,566,0.43,24,Address_98,user98@email.com,Eligible
+User_99,55,90310,Employed,10432,760,0.47,60,Address_99,user99@email.com,Not Eligible
+User_100,53,134945,Employed,25644,755,0.25,36,Address_100,user100@email.com,Eligible
+User_101,25,80176,Self-Employed,23745,659,0.23,24,Address_101,user101@email.com,Eligible
+User_102,62,144797,Self-Employed,33228,367,0.4,36,Address_102,user102@email.com,Not Eligible
+User_103,59,111066,Employed,39521,711,0.27,60,Address_103,user103@email.com,Eligible
+User_104,61,130500,Unemployed,36703,790,0.14,36,Address_104,user104@email.com,Not Eligible
+User_105,48,69327,Employed,31928,348,0.21,60,Address_105,user105@email.com,Needs Review
+User_106,27,93904,Self-Employed,23322,401,0.27,60,Address_106,user106@email.com,Needs Review
+User_107,29,28797,Employed,27360,515,0.22,60,Address_107,user107@email.com,Eligible
+User_108,28,72882,Self-Employed,34055,737,0.23,24,Address_108,user108@email.com,Eligible
+User_109,32,38718,Self-Employed,47891,458,0.22,36,Address_109,user109@email.com,Eligible
+User_110,54,59560,Unemployed,21376,788,0.12,36,Address_110,user110@email.com,Eligible
+User_111,53,101589,Self-Employed,11588,541,0.35,12,Address_111,user111@email.com,Eligible
+User_112,43,47116,Self-Employed,30000,304,0.34,12,Address_112,user112@email.com,Eligible
+User_113,44,61244,Unemployed,11304,660,0.36,12,Address_113,user113@email.com,Needs Review
+User_114,57,126721,Self-Employed,12345,758,0.18,12,Address_114,user114@email.com,Needs Review
+User_115,55,26645,Unemployed,34300,547,0.22,36,Address_115,user115@email.com,Eligible
+User_116,64,72523,Unemployed,29259,721,0.35,60,Address_116,user116@email.com,Eligible
+User_117,60,149085,Self-Employed,30470,314,0.34,60,Address_117,user117@email.com,Eligible
+User_118,42,142718,Self-Employed,28017,421,0.3,24,Address_118,user118@email.com,Eligible
+User_119,47,44256,Employed,20352,576,0.24,60,Address_119,user119@email.com,Not Eligible
+User_120,55,126376,Unemployed,38365,752,0.47,36,Address_120,user120@email.com,Not Eligible
+User_121,21,125158,Employed,24446,689,0.24,36,Address_121,user121@email.com,Not Eligible
+User_122,55,78173,Self-Employed,7336,593,0.28,36,Address_122,user122@email.com,Not Eligible
+User_123,57,62430,Employed,14879,745,0.37,24,Address_123,user123@email.com,Eligible
+User_124,34,64282,Unemployed,37316,509,0.32,12,Address_124,user124@email.com,Not Eligible
+User_125,23,144719,Employed,38340,601,0.24,60,Address_125,user125@email.com,Eligible
+User_126,21,88374,Unemployed,12521,522,0.27,36,Address_126,user126@email.com,Eligible
+User_127,25,93244,Self-Employed,11171,302,0.42,36,Address_127,user127@email.com,Eligible
+User_128,46,36694,Self-Employed,28481,817,0.21,12,Address_128,user128@email.com,Eligible
+User_129,34,81264,Unemployed,23474,392,0.16,36,Address_129,user129@email.com,Eligible
+User_130,59,100060,Self-Employed,49629,819,0.23,60,Address_130,user130@email.com,Eligible
+User_131,47,122416,Self-Employed,26008,727,0.44,24,Address_131,user131@email.com,Needs Review
+User_132,29,82545,Self-Employed,6633,792,0.14,36,Address_132,user132@email.com,Eligible
+User_133,35,143195,Self-Employed,17485,534,0.5,60,Address_133,user133@email.com,Eligible
+User_134,35,64224,Unemployed,48617,460,0.32,36,Address_134,user134@email.com,Eligible
+User_135,46,127516,Employed,8648,630,0.49,12,Address_135,user135@email.com,Not Eligible
+User_136,62,122945,Employed,18140,632,0.48,36,Address_136,user136@email.com,Eligible
+User_137,33,38224,Self-Employed,22921,349,0.28,36,Address_137,user137@email.com,Needs Review
+User_138,52,65738,Employed,19357,822,0.18,24,Address_138,user138@email.com,Not Eligible
+User_139,59,50150,Employed,8137,791,0.17,12,Address_139,user139@email.com,Eligible
+User_140,52,88731,Self-Employed,5097,571,0.2,12,Address_140,user140@email.com,Not Eligible
+User_141,24,74688,Self-Employed,16407,551,0.38,24,Address_141,user141@email.com,Eligible
+User_142,50,124929,Employed,35575,389,0.21,36,Address_142,user142@email.com,Eligible
+User_143,57,133618,Unemployed,17722,745,0.24,60,Address_143,user143@email.com,Not Eligible
+User_144,43,98509,Self-Employed,17924,631,0.28,12,Address_144,user144@email.com,Eligible
+User_145,59,33577,Unemployed,8750,438,0.47,12,Address_145,user145@email.com,Eligible
+User_146,35,33070,Employed,32733,656,0.18,36,Address_146,user146@email.com,Eligible
+User_147,63,33666,Self-Employed,13535,573,0.1,36,Address_147,user147@email.com,Eligible
+User_148,49,82761,Unemployed,29487,318,0.12,12,Address_148,user148@email.com,Needs Review
+User_149,56,146178,Self-Employed,35651,610,0.46,36,Address_149,user149@email.com,Eligible
+User_150,33,61368,Employed,9666,453,0.36,60,Address_150,user150@email.com,Not Eligible
+User_151,52,31783,Unemployed,21994,689,0.21,12,Address_151,user151@email.com,Eligible
+User_152,27,136530,Employed,6727,559,0.17,60,Address_152,user152@email.com,Not Eligible
+User_153,42,66914,Employed,39622,424,0.22,60,Address_153,user153@email.com,Eligible
+User_154,48,95507,Self-Employed,15800,653,0.15,36,Address_154,user154@email.com,Eligible
+User_155,22,104026,Unemployed,42823,572,0.48,60,Address_155,user155@email.com,Not Eligible
+User_156,62,140893,Employed,48039,544,0.41,36,Address_156,user156@email.com,Eligible
+User_157,26,136255,Employed,23708,749,0.28,24,Address_157,user157@email.com,Eligible
+User_158,48,135616,Unemployed,17819,546,0.45,36,Address_158,user158@email.com,Eligible
+User_159,48,92526,Employed,14369,819,0.2,60,Address_159,user159@email.com,Not Eligible
+User_160,64,95835,Employed,14283,440,0.39,24,Address_160,user160@email.com,Eligible
+User_161,64,70765,Unemployed,35573,661,0.44,36,Address_161,user161@email.com,Needs Review
+User_162,40,44956,Unemployed,18171,307,0.24,60,Address_162,user162@email.com,Eligible
+User_163,50,112895,Unemployed,35933,777,0.4,12,Address_163,user163@email.com,Eligible
+User_164,31,71240,Unemployed,10774,651,0.22,12,Address_164,user164@email.com,Not Eligible
+User_165,48,146008,Self-Employed,11519,794,0.22,36,Address_165,user165@email.com,Not Eligible
+User_166,45,62148,Unemployed,15983,726,0.14,36,Address_166,user166@email.com,Not Eligible
+User_167,59,119270,Self-Employed,35932,338,0.28,12,Address_167,user167@email.com,Needs Review
+User_168,53,29757,Self-Employed,35798,486,0.39,60,Address_168,user168@email.com,Eligible
+User_169,21,44097,Self-Employed,23133,392,0.48,60,Address_169,user169@email.com,Eligible
+User_170,47,35395,Employed,19939,385,0.34,60,Address_170,user170@email.com,Eligible
+User_171,33,41241,Self-Employed,5781,343,0.45,36,Address_171,user171@email.com,Not Eligible
+User_172,61,128892,Self-Employed,32624,436,0.43,24,Address_172,user172@email.com,Not Eligible
+User_173,23,52696,Employed,11823,720,0.17,24,Address_173,user173@email.com,Eligible
+User_174,59,140654,Employed,23489,373,0.29,24,Address_174,user174@email.com,Eligible
+User_175,26,95480,Employed,44961,847,0.15,24,Address_175,user175@email.com,Eligible
+User_176,28,71163,Unemployed,34118,811,0.37,24,Address_176,user176@email.com,Not Eligible
+User_177,47,44816,Employed,39881,455,0.48,36,Address_177,user177@email.com,Eligible
+User_178,29,74840,Employed,21280,554,0.15,36,Address_178,user178@email.com,Eligible
+User_179,57,127547,Self-Employed,27263,470,0.39,24,Address_179,user179@email.com,Eligible
+User_180,53,77853,Employed,18565,469,0.35,36,Address_180,user180@email.com,Not Eligible
+User_181,62,49917,Unemployed,25354,621,0.33,36,Address_181,user181@email.com,Not Eligible
+User_182,64,121731,Employed,47951,755,0.26,24,Address_182,user182@email.com,Not Eligible
+User_183,44,46566,Unemployed,30643,454,0.24,60,Address_183,user183@email.com,Eligible
+User_184,35,100452,Employed,28648,648,0.12,36,Address_184,user184@email.com,Eligible
+User_185,52,87823,Employed,46971,750,0.19,60,Address_185,user185@email.com,Not Eligible
+User_186,52,146392,Employed,23658,472,0.11,36,Address_186,user186@email.com,Needs Review
+User_187,44,45806,Employed,26253,309,0.33,36,Address_187,user187@email.com,Eligible
+User_188,61,100520,Unemployed,31390,564,0.14,24,Address_188,user188@email.com,Eligible
+User_189,32,26759,Unemployed,28128,737,0.45,36,Address_189,user189@email.com,Eligible
+User_190,59,66949,Self-Employed,18489,546,0.31,12,Address_190,user190@email.com,Eligible
+User_191,22,117374,Unemployed,43314,845,0.38,12,Address_191,user191@email.com,Not Eligible
+User_192,23,27482,Employed,37658,798,0.26,24,Address_192,user192@email.com,Eligible
+User_193,57,49442,Self-Employed,11852,428,0.32,60,Address_193,user193@email.com,Eligible
+User_194,37,58719,Self-Employed,34450,626,0.48,60,Address_194,user194@email.com,Eligible
+User_195,22,83066,Self-Employed,7551,703,0.13,60,Address_195,user195@email.com,Eligible
+User_196,22,118501,Employed,11411,658,0.2,12,Address_196,user196@email.com,Eligible
+User_197,48,27079,Unemployed,38243,316,0.41,60,Address_197,user197@email.com,Eligible
+User_198,43,27717,Employed,26800,573,0.14,60,Address_198,user198@email.com,Eligible
+User_199,57,84676,Self-Employed,15403,415,0.13,24,Address_199,user199@email.com,Not Eligible
+User_200,52,52952,Employed,12239,390,0.24,60,Address_200,user200@email.com,Eligible
+User_201,53,111444,Employed,11710,381,0.14,12,Address_201,user201@email.com,Eligible
+User_202,21,67460,Unemployed,26384,623,0.33,12,Address_202,user202@email.com,Needs Review
+User_203,39,115397,Unemployed,26038,413,0.19,12,Address_203,user203@email.com,Not Eligible
+User_204,22,97847,Self-Employed,45846,357,0.46,24,Address_204,user204@email.com,Not Eligible
+User_205,64,118607,Employed,27447,453,0.41,24,Address_205,user205@email.com,Eligible
+User_206,46,114106,Employed,7285,703,0.38,36,Address_206,user206@email.com,Eligible
+User_207,52,43449,Unemployed,42991,565,0.35,60,Address_207,user207@email.com,Eligible
+User_208,26,58536,Employed,18521,614,0.45,24,Address_208,user208@email.com,Eligible
+User_209,52,89077,Employed,11971,340,0.19,12,Address_209,user209@email.com,Eligible
+User_210,24,63258,Employed,34139,404,0.45,12,Address_210,user210@email.com,Needs Review
+User_211,31,73302,Unemployed,24909,492,0.42,24,Address_211,user211@email.com,Eligible
+User_212,37,53865,Self-Employed,16531,700,0.4,24,Address_212,user212@email.com,Eligible
+User_213,58,31645,Self-Employed,19721,577,0.32,24,Address_213,user213@email.com,Eligible
+User_214,44,144771,Employed,24206,653,0.2,36,Address_214,user214@email.com,Eligible
+User_215,25,63000,Self-Employed,42711,555,0.27,12,Address_215,user215@email.com,Not Eligible
+User_216,54,51737,Unemployed,11530,398,0.42,36,Address_216,user216@email.com,Eligible
+User_217,26,36485,Unemployed,16116,581,0.11,36,Address_217,user217@email.com,Not Eligible
+User_218,42,63565,Self-Employed,5258,702,0.41,60,Address_218,user218@email.com,Needs Review
+User_219,31,50522,Self-Employed,5282,408,0.2,12,Address_219,user219@email.com,Eligible
+User_220,36,144614,Employed,18937,498,0.16,12,Address_220,user220@email.com,Eligible
+User_221,53,90155,Self-Employed,6898,602,0.15,24,Address_221,user221@email.com,Needs Review
+User_222,29,80168,Employed,9135,626,0.11,24,Address_222,user222@email.com,Not Eligible
+User_223,26,77487,Employed,11629,453,0.31,60,Address_223,user223@email.com,Eligible
+User_224,36,37342,Unemployed,48936,704,0.19,36,Address_224,user224@email.com,Needs Review
+User_225,49,65806,Unemployed,24584,761,0.5,24,Address_225,user225@email.com,Eligible
+User_226,23,73770,Unemployed,28551,431,0.33,24,Address_226,user226@email.com,Needs Review
+User_227,40,103623,Unemployed,38380,383,0.16,12,Address_227,user227@email.com,Eligible
+User_228,56,128177,Self-Employed,22071,698,0.38,12,Address_228,user228@email.com,Eligible
+User_229,39,124785,Unemployed,25074,408,0.46,24,Address_229,user229@email.com,Not Eligible
+User_230,46,100629,Self-Employed,30188,520,0.4,12,Address_230,user230@email.com,Eligible
+User_231,23,145993,Unemployed,7307,667,0.13,60,Address_231,user231@email.com,Eligible
+User_232,39,77603,Self-Employed,44901,446,0.46,24,Address_232,user232@email.com,Eligible
+User_233,40,137726,Employed,16205,411,0.42,12,Address_233,user233@email.com,Needs Review
+User_234,52,106974,Self-Employed,10906,793,0.16,60,Address_234,user234@email.com,Not Eligible
+User_235,27,130947,Self-Employed,7591,804,0.12,12,Address_235,user235@email.com,Not Eligible
+User_236,61,51399,Unemployed,20149,774,0.32,12,Address_236,user236@email.com,Eligible
+User_237,53,110382,Self-Employed,49918,570,0.16,12,Address_237,user237@email.com,Not Eligible
+User_238,60,106244,Employed,44951,720,0.43,24,Address_238,user238@email.com,Eligible
+User_239,59,134575,Employed,30150,666,0.24,36,Address_239,user239@email.com,Eligible
+User_240,38,140520,Unemployed,36852,579,0.47,12,Address_240,user240@email.com,Not Eligible
+User_241,60,135904,Employed,47870,582,0.33,60,Address_241,user241@email.com,Eligible
+User_242,21,101534,Self-Employed,6283,339,0.17,24,Address_242,user242@email.com,Eligible
+User_243,31,80106,Employed,38691,488,0.16,24,Address_243,user243@email.com,Eligible
+User_244,48,137599,Unemployed,6125,463,0.33,60,Address_244,user244@email.com,Eligible
+User_245,45,55678,Self-Employed,6529,835,0.4,12,Address_245,user245@email.com,Not Eligible
+User_246,43,101218,Unemployed,31170,835,0.41,36,Address_246,user246@email.com,Eligible
+User_247,51,88230,Self-Employed,13438,303,0.21,12,Address_247,user247@email.com,Not Eligible
+User_248,50,139684,Employed,25095,589,0.18,60,Address_248,user248@email.com,Eligible
+User_249,62,99055,Unemployed,21154,732,0.11,24,Address_249,user249@email.com,Eligible
+User_250,55,81373,Unemployed,13004,770,0.37,36,Address_250,user250@email.com,Eligible
+User_251,27,56480,Self-Employed,14752,480,0.13,24,Address_251,user251@email.com,Not Eligible
+User_252,36,110230,Unemployed,48360,547,0.27,60,Address_252,user252@email.com,Not Eligible
+User_253,46,93836,Self-Employed,31819,578,0.34,12,Address_253,user253@email.com,Needs Review
+User_254,22,97258,Self-Employed,41632,553,0.47,36,Address_254,user254@email.com,Not Eligible
+User_255,21,64986,Self-Employed,31515,480,0.22,24,Address_255,user255@email.com,Eligible
+User_256,32,49160,Self-Employed,29217,808,0.2,24,Address_256,user256@email.com,Not Eligible
+User_257,25,110595,Employed,28172,625,0.36,24,Address_257,user257@email.com,Needs Review
+User_258,57,126358,Self-Employed,37994,656,0.35,12,Address_258,user258@email.com,Not Eligible
+User_259,52,104111,Unemployed,20036,690,0.23,36,Address_259,user259@email.com,Eligible
+User_260,29,89929,Employed,16739,384,0.47,12,Address_260,user260@email.com,Eligible
+User_261,61,98506,Unemployed,37220,616,0.44,12,Address_261,user261@email.com,Not Eligible
+User_262,55,59911,Employed,14587,511,0.19,12,Address_262,user262@email.com,Not Eligible
+User_263,39,112127,Self-Employed,49517,814,0.2,60,Address_263,user263@email.com,Eligible
+User_264,36,56821,Employed,35129,683,0.3,60,Address_264,user264@email.com,Not Eligible
+User_265,23,100039,Employed,5645,641,0.41,60,Address_265,user265@email.com,Needs Review
+User_266,40,85535,Unemployed,35930,337,0.12,36,Address_266,user266@email.com,Eligible
+User_267,44,138453,Unemployed,21299,810,0.38,12,Address_267,user267@email.com,Not Eligible
+User_268,53,109458,Self-Employed,35090,719,0.36,12,Address_268,user268@email.com,Eligible
+User_269,44,37175,Employed,26953,468,0.19,60,Address_269,user269@email.com,Eligible
+User_270,31,144235,Employed,31475,642,0.37,12,Address_270,user270@email.com,Eligible
+User_271,28,79771,Employed,23888,605,0.48,12,Address_271,user271@email.com,Eligible
+User_272,56,131660,Self-Employed,48732,841,0.12,24,Address_272,user272@email.com,Not Eligible
+User_273,58,146300,Self-Employed,21087,836,0.23,12,Address_273,user273@email.com,Eligible
+User_274,60,111925,Self-Employed,14346,411,0.28,24,Address_274,user274@email.com,Eligible
+User_275,40,138374,Self-Employed,5587,710,0.46,12,Address_275,user275@email.com,Eligible
+User_276,55,91358,Self-Employed,17763,505,0.48,36,Address_276,user276@email.com,Eligible
+User_277,45,42327,Unemployed,46945,484,0.28,60,Address_277,user277@email.com,Eligible
+User_278,55,72057,Employed,9079,681,0.4,24,Address_278,user278@email.com,Not Eligible
+User_279,45,31150,Employed,41116,795,0.31,60,Address_279,user279@email.com,Eligible
+User_280,49,29425,Employed,25215,678,0.32,24,Address_280,user280@email.com,Not Eligible
+User_281,38,148654,Employed,30817,346,0.21,24,Address_281,user281@email.com,Not Eligible
+User_282,38,41032,Employed,29765,827,0.19,24,Address_282,user282@email.com,Eligible
+User_283,22,27198,Employed,35112,803,0.22,36,Address_283,user283@email.com,Not Eligible
+User_284,55,85500,Employed,30556,321,0.32,12,Address_284,user284@email.com,Eligible
+User_285,36,78394,Employed,23099,512,0.11,24,Address_285,user285@email.com,Eligible
+User_286,61,45079,Unemployed,48553,609,0.46,36,Address_286,user286@email.com,Eligible
+User_287,56,61220,Employed,11450,571,0.16,24,Address_287,user287@email.com,Eligible
+User_288,53,66874,Unemployed,18230,501,0.19,12,Address_288,user288@email.com,Eligible
+User_289,24,38859,Self-Employed,34009,331,0.31,24,Address_289,user289@email.com,Not Eligible
+User_290,53,75460,Employed,10433,742,0.38,36,Address_290,user290@email.com,Eligible
+User_291,34,56419,Self-Employed,38866,461,0.14,12,Address_291,user291@email.com,Not Eligible
+User_292,41,143865,Self-Employed,44864,553,0.23,36,Address_292,user292@email.com,Eligible
+User_293,40,33705,Self-Employed,23710,820,0.49,12,Address_293,user293@email.com,Not Eligible
+User_294,28,67880,Unemployed,16439,779,0.2,12,Address_294,user294@email.com,Eligible
+User_295,27,48236,Self-Employed,46855,309,0.23,60,Address_295,user295@email.com,Eligible
+User_296,23,112955,Self-Employed,21021,804,0.43,60,Address_296,user296@email.com,Eligible
+User_297,37,110514,Self-Employed,11416,735,0.12,60,Address_297,user297@email.com,Eligible
+User_298,53,128145,Employed,11980,410,0.29,12,Address_298,user298@email.com,Eligible
+User_299,32,40358,Employed,23058,452,0.25,24,Address_299,user299@email.com,Not Eligible
+User_300,42,124713,Unemployed,16101,401,0.23,36,Address_300,user300@email.com,Eligible
+User_301,42,119914,Unemployed,45718,490,0.21,36,Address_301,user301@email.com,Not Eligible
+User_302,50,127870,Employed,37602,380,0.14,36,Address_302,user302@email.com,Not Eligible
+User_303,58,101918,Unemployed,14122,788,0.23,60,Address_303,user303@email.com,Not Eligible
+User_304,58,144179,Employed,17576,387,0.12,12,Address_304,user304@email.com,Eligible
+User_305,28,141243,Self-Employed,32516,493,0.41,60,Address_305,user305@email.com,Eligible
+User_306,47,39596,Self-Employed,27433,403,0.26,24,Address_306,user306@email.com,Needs Review
+User_307,47,58572,Unemployed,6089,395,0.28,12,Address_307,user307@email.com,Not Eligible
+User_308,54,103757,Employed,42346,722,0.46,36,Address_308,user308@email.com,Eligible
+User_309,41,26279,Employed,14127,497,0.36,60,Address_309,user309@email.com,Eligible
+User_310,50,88197,Unemployed,15487,300,0.1,60,Address_310,user310@email.com,Eligible
+User_311,53,136496,Employed,5155,706,0.48,24,Address_311,user311@email.com,Eligible
+User_312,48,87516,Self-Employed,6958,677,0.19,24,Address_312,user312@email.com,Not Eligible
+User_313,53,32083,Unemployed,15693,466,0.14,60,Address_313,user313@email.com,Eligible
+User_314,25,145674,Unemployed,44112,808,0.41,24,Address_314,user314@email.com,Eligible
+User_315,39,145307,Employed,43547,612,0.3,36,Address_315,user315@email.com,Eligible
+User_316,24,134397,Unemployed,33795,717,0.27,24,Address_316,user316@email.com,Eligible
+User_317,55,42771,Employed,26447,776,0.2,24,Address_317,user317@email.com,Not Eligible
+User_318,37,54975,Employed,41598,372,0.32,60,Address_318,user318@email.com,Not Eligible
+User_319,64,70648,Employed,46814,440,0.21,60,Address_319,user319@email.com,Eligible
+User_320,48,73285,Employed,30215,561,0.46,12,Address_320,user320@email.com,Not Eligible
+User_321,50,44063,Employed,14794,639,0.19,12,Address_321,user321@email.com,Eligible
+User_322,49,92642,Unemployed,38209,607,0.45,60,Address_322,user322@email.com,Eligible
+User_323,26,115093,Self-Employed,27424,544,0.32,24,Address_323,user323@email.com,Eligible
+User_324,55,139390,Self-Employed,42396,814,0.43,24,Address_324,user324@email.com,Eligible
+User_325,61,111143,Unemployed,11370,636,0.39,12,Address_325,user325@email.com,Eligible
+User_326,57,62599,Unemployed,14528,375,0.38,12,Address_326,user326@email.com,Eligible
+User_327,44,76920,Self-Employed,33276,474,0.23,12,Address_327,user327@email.com,Not Eligible
+User_328,49,53529,Self-Employed,49333,408,0.19,36,Address_328,user328@email.com,Eligible
+User_329,51,60954,Self-Employed,13179,482,0.18,36,Address_329,user329@email.com,Not Eligible
+User_330,55,52856,Self-Employed,21843,491,0.44,12,Address_330,user330@email.com,Eligible
+User_331,53,27573,Self-Employed,28952,364,0.43,24,Address_331,user331@email.com,Needs Review
+User_332,41,103344,Employed,38160,773,0.28,12,Address_332,user332@email.com,Not Eligible
+User_333,52,60367,Unemployed,49898,399,0.15,36,Address_333,user333@email.com,Eligible
+User_334,43,127337,Employed,34516,843,0.25,24,Address_334,user334@email.com,Not Eligible
+User_335,53,131732,Self-Employed,15449,427,0.35,36,Address_335,user335@email.com,Eligible
+User_336,23,124608,Self-Employed,26125,751,0.28,24,Address_336,user336@email.com,Not Eligible
+User_337,38,85774,Self-Employed,12418,668,0.41,36,Address_337,user337@email.com,Eligible
+User_338,45,48752,Employed,27746,342,0.5,24,Address_338,user338@email.com,Not Eligible
+User_339,62,80029,Employed,7454,718,0.18,24,Address_339,user339@email.com,Not Eligible
+User_340,51,42685,Self-Employed,22761,787,0.28,24,Address_340,user340@email.com,Eligible
+User_341,23,76693,Employed,20223,377,0.27,24,Address_341,user341@email.com,Eligible
+User_342,60,141739,Employed,11701,569,0.22,60,Address_342,user342@email.com,Not Eligible
+User_343,44,80961,Self-Employed,7597,614,0.18,36,Address_343,user343@email.com,Eligible
+User_344,52,131937,Employed,5141,467,0.13,36,Address_344,user344@email.com,Eligible
+User_345,42,149956,Unemployed,7659,638,0.45,60,Address_345,user345@email.com,Eligible
+User_346,43,101908,Unemployed,25980,492,0.27,24,Address_346,user346@email.com,Eligible
+User_347,22,99532,Unemployed,14031,752,0.3,24,Address_347,user347@email.com,Needs Review
+User_348,47,106994,Unemployed,20037,582,0.47,36,Address_348,user348@email.com,Eligible
+User_349,62,81133,Self-Employed,43429,635,0.41,60,Address_349,user349@email.com,Eligible
+User_350,22,122425,Self-Employed,11142,689,0.15,24,Address_350,user350@email.com,Not Eligible
+User_351,46,86268,Self-Employed,17109,824,0.33,24,Address_351,user351@email.com,Not Eligible
+User_352,37,117201,Unemployed,27010,539,0.28,24,Address_352,user352@email.com,Eligible
+User_353,60,63243,Unemployed,13787,782,0.42,12,Address_353,user353@email.com,Eligible
+User_354,53,82384,Employed,47864,757,0.39,60,Address_354,user354@email.com,Needs Review
+User_355,29,56653,Employed,13472,388,0.38,24,Address_355,user355@email.com,Not Eligible
+User_356,63,51657,Unemployed,28383,394,0.24,12,Address_356,user356@email.com,Eligible
+User_357,59,64952,Unemployed,9249,751,0.42,60,Address_357,user357@email.com,Eligible
+User_358,49,47180,Unemployed,39518,727,0.12,24,Address_358,user358@email.com,Eligible
+User_359,62,122432,Unemployed,23351,450,0.16,36,Address_359,user359@email.com,Eligible
+User_360,46,146829,Employed,9088,813,0.23,12,Address_360,user360@email.com,Eligible
+User_361,55,103411,Unemployed,20282,675,0.13,12,Address_361,user361@email.com,Not Eligible
+User_362,45,26622,Employed,24330,321,0.19,24,Address_362,user362@email.com,Eligible
+User_363,44,73756,Unemployed,47409,612,0.43,24,Address_363,user363@email.com,Not Eligible
+User_364,33,65809,Unemployed,26778,818,0.48,12,Address_364,user364@email.com,Eligible
+User_365,27,41725,Unemployed,29264,505,0.22,36,Address_365,user365@email.com,Not Eligible
+User_366,56,86396,Employed,10075,674,0.21,36,Address_366,user366@email.com,Not Eligible
+User_367,40,76226,Employed,15412,750,0.21,60,Address_367,user367@email.com,Eligible
+User_368,21,131296,Self-Employed,33365,478,0.21,24,Address_368,user368@email.com,Eligible
+User_369,28,106182,Unemployed,12230,509,0.11,36,Address_369,user369@email.com,Eligible
+User_370,36,107565,Self-Employed,16002,799,0.47,60,Address_370,user370@email.com,Not Eligible
+User_371,34,54402,Self-Employed,18947,763,0.19,36,Address_371,user371@email.com,Not Eligible
+User_372,32,29263,Employed,18686,423,0.27,24,Address_372,user372@email.com,Eligible
+User_373,43,148489,Employed,34304,412,0.1,60,Address_373,user373@email.com,Eligible
+User_374,35,121523,Self-Employed,18074,311,0.44,60,Address_374,user374@email.com,Eligible
+User_375,48,71828,Unemployed,9493,425,0.39,60,Address_375,user375@email.com,Not Eligible
+User_376,54,145824,Employed,39228,630,0.48,36,Address_376,user376@email.com,Eligible
+User_377,22,72924,Unemployed,19140,582,0.41,24,Address_377,user377@email.com,Eligible
+User_378,52,99182,Unemployed,36655,439,0.23,60,Address_378,user378@email.com,Eligible
+User_379,43,118065,Self-Employed,48472,700,0.2,12,Address_379,user379@email.com,Eligible
+User_380,42,84052,Self-Employed,11816,396,0.38,24,Address_380,user380@email.com,Not Eligible
+User_381,45,36664,Self-Employed,16639,816,0.25,12,Address_381,user381@email.com,Eligible
+User_382,42,60737,Self-Employed,34492,368,0.33,12,Address_382,user382@email.com,Not Eligible
+User_383,42,126332,Employed,16240,417,0.1,60,Address_383,user383@email.com,Eligible
+User_384,62,114563,Employed,37698,358,0.12,60,Address_384,user384@email.com,Eligible
+User_385,26,54373,Self-Employed,31957,332,0.31,36,Address_385,user385@email.com,Not Eligible
+User_386,35,142369,Employed,37808,617,0.33,36,Address_386,user386@email.com,Needs Review
+User_387,63,61397,Self-Employed,10827,349,0.4,36,Address_387,user387@email.com,Not Eligible
+User_388,57,111145,Unemployed,37762,788,0.15,24,Address_388,user388@email.com,Eligible
+User_389,53,126371,Unemployed,13259,318,0.31,36,Address_389,user389@email.com,Eligible
+User_390,28,63709,Unemployed,19849,496,0.18,12,Address_390,user390@email.com,Not Eligible
+User_391,64,141074,Self-Employed,21232,749,0.14,36,Address_391,user391@email.com,Eligible
+User_392,64,86120,Unemployed,45572,751,0.26,60,Address_392,user392@email.com,Eligible
+User_393,25,44250,Employed,29173,588,0.17,36,Address_393,user393@email.com,Not Eligible
+User_394,59,46172,Unemployed,10374,440,0.19,24,Address_394,user394@email.com,Not Eligible
+User_395,24,36555,Unemployed,26174,383,0.23,24,Address_395,user395@email.com,Needs Review
+User_396,26,112410,Unemployed,28567,690,0.2,12,Address_396,user396@email.com,Needs Review
+User_397,52,103617,Employed,40292,514,0.14,24,Address_397,user397@email.com,Not Eligible
+User_398,50,78276,Self-Employed,14277,825,0.14,36,Address_398,user398@email.com,Eligible
+User_399,55,82492,Employed,36600,514,0.18,60,Address_399,user399@email.com,Eligible
+User_400,60,78002,Self-Employed,14885,702,0.12,24,Address_400,user400@email.com,Eligible
+User_401,36,145103,Self-Employed,5778,427,0.35,12,Address_401,user401@email.com,Eligible
+User_402,33,149938,Unemployed,34165,776,0.21,36,Address_402,user402@email.com,Eligible
+User_403,62,114599,Self-Employed,6492,703,0.21,12,Address_403,user403@email.com,Eligible
+User_404,50,97355,Employed,35462,328,0.23,24,Address_404,user404@email.com,Eligible
+User_405,39,116248,Employed,18615,637,0.37,24,Address_405,user405@email.com,Eligible
+User_406,37,49762,Self-Employed,49900,660,0.45,12,Address_406,user406@email.com,Eligible
+User_407,39,36046,Unemployed,47946,691,0.4,36,Address_407,user407@email.com,Eligible
+User_408,48,121999,Unemployed,12851,517,0.39,24,Address_408,user408@email.com,Eligible
+User_409,46,149130,Employed,21288,501,0.29,60,Address_409,user409@email.com,Not Eligible
+User_410,57,141021,Unemployed,12156,316,0.38,24,Address_410,user410@email.com,Eligible
+User_411,46,53769,Self-Employed,7044,621,0.32,36,Address_411,user411@email.com,Eligible
+User_412,43,78302,Self-Employed,12368,817,0.19,24,Address_412,user412@email.com,Not Eligible
+User_413,29,48150,Employed,24900,624,0.18,12,Address_413,user413@email.com,Eligible
+User_414,32,93247,Self-Employed,35600,711,0.22,24,Address_414,user414@email.com,Eligible
+User_415,21,29853,Employed,30634,617,0.46,24,Address_415,user415@email.com,Eligible
+User_416,21,119613,Self-Employed,14168,381,0.32,36,Address_416,user416@email.com,Eligible
+User_417,54,145900,Employed,25961,773,0.39,12,Address_417,user417@email.com,Needs Review
+User_418,52,114399,Unemployed,49096,767,0.24,36,Address_418,user418@email.com,Eligible
+User_419,45,46792,Self-Employed,28852,724,0.26,24,Address_419,user419@email.com,Not Eligible
+User_420,60,84129,Self-Employed,38110,503,0.15,60,Address_420,user420@email.com,Eligible
+User_421,21,131019,Employed,37174,686,0.17,24,Address_421,user421@email.com,Eligible
+User_422,36,99478,Employed,39215,397,0.43,36,Address_422,user422@email.com,Eligible
+User_423,59,138811,Self-Employed,31955,644,0.33,60,Address_423,user423@email.com,Eligible
+User_424,25,139130,Employed,11581,507,0.24,36,Address_424,user424@email.com,Eligible
+User_425,42,92298,Self-Employed,49619,813,0.42,36,Address_425,user425@email.com,Eligible
+User_426,49,56987,Unemployed,11317,465,0.2,12,Address_426,user426@email.com,Eligible
+User_427,23,40850,Employed,47856,321,0.49,60,Address_427,user427@email.com,Not Eligible
+User_428,32,37112,Self-Employed,31649,453,0.24,24,Address_428,user428@email.com,Eligible
+User_429,46,146789,Unemployed,28132,738,0.23,36,Address_429,user429@email.com,Not Eligible
+User_430,36,49058,Unemployed,21789,594,0.22,24,Address_430,user430@email.com,Not Eligible
+User_431,57,70420,Self-Employed,19567,518,0.15,12,Address_431,user431@email.com,Eligible
+User_432,42,63890,Employed,19868,794,0.14,12,Address_432,user432@email.com,Eligible
+User_433,49,91017,Self-Employed,29370,529,0.36,60,Address_433,user433@email.com,Eligible
+User_434,34,72304,Unemployed,47533,319,0.45,12,Address_434,user434@email.com,Not Eligible
+User_435,48,57921,Self-Employed,35483,447,0.42,12,Address_435,user435@email.com,Eligible
+User_436,25,130921,Employed,17466,407,0.16,24,Address_436,user436@email.com,Not Eligible
+User_437,50,26524,Unemployed,33803,702,0.32,12,Address_437,user437@email.com,Eligible
+User_438,25,125424,Self-Employed,23230,782,0.14,12,Address_438,user438@email.com,Not Eligible
+User_439,32,40048,Employed,22862,666,0.12,36,Address_439,user439@email.com,Eligible
+User_440,36,60111,Unemployed,48355,713,0.36,12,Address_440,user440@email.com,Not Eligible
+User_441,46,62904,Employed,36259,608,0.31,36,Address_441,user441@email.com,Eligible
+User_442,46,79912,Unemployed,38539,433,0.13,12,Address_442,user442@email.com,Eligible
+User_443,41,59008,Self-Employed,26909,582,0.11,12,Address_443,user443@email.com,Eligible
+User_444,59,25060,Employed,35795,372,0.5,60,Address_444,user444@email.com,Eligible
+User_445,56,99666,Unemployed,13770,780,0.11,60,Address_445,user445@email.com,Needs Review
+User_446,53,108559,Employed,16093,651,0.28,36,Address_446,user446@email.com,Eligible
+User_447,50,80337,Employed,5193,625,0.3,12,Address_447,user447@email.com,Eligible
+User_448,57,135616,Self-Employed,39775,742,0.15,24,Address_448,user448@email.com,Eligible
+User_449,43,38350,Employed,22569,399,0.17,60,Address_449,user449@email.com,Eligible
+User_450,30,49354,Unemployed,16190,358,0.24,24,Address_450,user450@email.com,Eligible
+User_451,25,70186,Unemployed,47752,807,0.4,60,Address_451,user451@email.com,Not Eligible
+User_452,56,53145,Unemployed,37327,557,0.3,60,Address_452,user452@email.com,Eligible
+User_453,54,59020,Unemployed,47070,712,0.36,12,Address_453,user453@email.com,Needs Review
+User_454,51,111123,Self-Employed,25389,751,0.49,60,Address_454,user454@email.com,Eligible
+User_455,30,131667,Employed,45197,364,0.41,24,Address_455,user455@email.com,Eligible
+User_456,39,100186,Self-Employed,7261,453,0.27,60,Address_456,user456@email.com,Not Eligible
+User_457,52,110469,Employed,33369,565,0.28,36,Address_457,user457@email.com,Not Eligible
+User_458,21,45581,Employed,31512,378,0.35,12,Address_458,user458@email.com,Eligible
+User_459,25,113929,Employed,11716,614,0.37,12,Address_459,user459@email.com,Not Eligible
+User_460,24,48051,Self-Employed,26259,547,0.3,36,Address_460,user460@email.com,Eligible
+User_461,36,76474,Employed,33933,713,0.36,36,Address_461,user461@email.com,Eligible
+User_462,44,116748,Self-Employed,46689,324,0.11,36,Address_462,user462@email.com,Not Eligible
+User_463,36,139618,Unemployed,9378,583,0.27,60,Address_463,user463@email.com,Eligible
+User_464,22,94626,Unemployed,45583,748,0.21,12,Address_464,user464@email.com,Eligible
+User_465,48,31960,Employed,24835,600,0.15,36,Address_465,user465@email.com,Not Eligible
+User_466,52,60772,Self-Employed,34033,367,0.14,60,Address_466,user466@email.com,Needs Review
+User_467,47,46520,Unemployed,29000,306,0.34,36,Address_467,user467@email.com,Eligible
+User_468,40,74481,Self-Employed,15332,436,0.31,24,Address_468,user468@email.com,Eligible
+User_469,44,61408,Self-Employed,47604,463,0.2,24,Address_469,user469@email.com,Eligible
+User_470,32,119006,Employed,7800,382,0.29,12,Address_470,user470@email.com,Needs Review
+User_471,55,82134,Unemployed,34538,719,0.3,60,Address_471,user471@email.com,Not Eligible
+User_472,53,45491,Employed,35119,372,0.18,24,Address_472,user472@email.com,Eligible
+User_473,53,26341,Employed,13333,536,0.36,24,Address_473,user473@email.com,Eligible
+User_474,63,69623,Unemployed,10410,345,0.41,60,Address_474,user474@email.com,Eligible
+User_475,57,115327,Unemployed,22839,561,0.42,36,Address_475,user475@email.com,Not Eligible
+User_476,32,25338,Self-Employed,35519,475,0.34,60,Address_476,user476@email.com,Not Eligible
+User_477,23,96431,Unemployed,10808,465,0.3,36,Address_477,user477@email.com,Not Eligible
+User_478,21,37254,Self-Employed,11796,669,0.12,24,Address_478,user478@email.com,Needs Review
+User_479,53,76860,Self-Employed,26180,353,0.22,24,Address_479,user479@email.com,Eligible
+User_480,60,36344,Self-Employed,48056,718,0.14,24,Address_480,user480@email.com,Eligible
+User_481,30,26750,Unemployed,22709,806,0.49,12,Address_481,user481@email.com,Eligible
+User_482,63,79756,Employed,22543,640,0.15,12,Address_482,user482@email.com,Eligible
+User_483,64,92957,Self-Employed,42418,426,0.16,12,Address_483,user483@email.com,Eligible
+User_484,49,130423,Employed,34075,708,0.46,60,Address_484,user484@email.com,Eligible
+User_485,33,83053,Employed,42755,666,0.48,24,Address_485,user485@email.com,Not Eligible
+User_486,32,95855,Unemployed,42465,570,0.41,24,Address_486,user486@email.com,Not Eligible
+User_487,51,40896,Employed,35502,678,0.1,60,Address_487,user487@email.com,Eligible
+User_488,22,80761,Employed,21724,372,0.1,12,Address_488,user488@email.com,Eligible
+User_489,55,87552,Unemployed,8828,547,0.25,60,Address_489,user489@email.com,Eligible
+User_490,43,145075,Self-Employed,22087,342,0.16,12,Address_490,user490@email.com,Not Eligible
+User_491,37,102454,Employed,17605,676,0.11,24,Address_491,user491@email.com,Not Eligible
+User_492,46,143681,Unemployed,36337,340,0.29,36,Address_492,user492@email.com,Eligible
+User_493,28,115600,Employed,10482,469,0.48,12,Address_493,user493@email.com,Eligible
+User_494,49,147732,Employed,32005,511,0.23,24,Address_494,user494@email.com,Eligible
+User_495,46,137153,Self-Employed,27760,792,0.36,24,Address_495,user495@email.com,Eligible
+User_496,30,147926,Employed,10463,338,0.36,36,Address_496,user496@email.com,Eligible
+User_497,46,52935,Unemployed,9912,668,0.2,24,Address_497,user497@email.com,Not Eligible
+User_498,54,62641,Employed,9648,450,0.36,24,Address_498,user498@email.com,Not Eligible
+User_499,61,54711,Self-Employed,38623,410,0.18,12,Address_499,user499@email.com,Eligible
+User_500,27,95342,Self-Employed,40634,779,0.15,12,Address_500,user500@email.com,Not Eligible
+User_501,24,131896,Unemployed,49602,735,0.38,36,Address_501,user501@email.com,Needs Review
+User_502,31,37182,Self-Employed,8112,346,0.15,36,Address_502,user502@email.com,Eligible
+User_503,49,112833,Employed,27054,665,0.5,24,Address_503,user503@email.com,Eligible
+User_504,56,81276,Self-Employed,9492,368,0.17,12,Address_504,user504@email.com,Needs Review
+User_505,45,44541,Unemployed,27207,598,0.34,36,Address_505,user505@email.com,Eligible
+User_506,41,119457,Self-Employed,20114,595,0.26,36,Address_506,user506@email.com,Needs Review
+User_507,56,107310,Self-Employed,39285,502,0.15,60,Address_507,user507@email.com,Needs Review
+User_508,30,69813,Self-Employed,21018,360,0.11,36,Address_508,user508@email.com,Not Eligible
+User_509,57,62198,Unemployed,26386,613,0.35,24,Address_509,user509@email.com,Not Eligible
+User_510,29,33820,Self-Employed,22740,460,0.42,12,Address_510,user510@email.com,Not Eligible
+User_511,44,49070,Self-Employed,49199,630,0.44,36,Address_511,user511@email.com,Not Eligible
+User_512,55,94768,Employed,13210,827,0.29,60,Address_512,user512@email.com,Eligible
+User_513,55,36122,Unemployed,49363,637,0.41,12,Address_513,user513@email.com,Eligible
+User_514,56,105559,Self-Employed,17743,603,0.37,36,Address_514,user514@email.com,Eligible
+User_515,38,98543,Unemployed,47092,802,0.39,60,Address_515,user515@email.com,Not Eligible
+User_516,59,108441,Self-Employed,49299,637,0.3,36,Address_516,user516@email.com,Eligible
+User_517,52,66786,Self-Employed,11588,849,0.35,12,Address_517,user517@email.com,Eligible
+User_518,44,119934,Self-Employed,8311,574,0.42,12,Address_518,user518@email.com,Eligible
+User_519,43,124804,Employed,27432,463,0.26,12,Address_519,user519@email.com,Not Eligible
+User_520,52,31737,Employed,38755,742,0.42,24,Address_520,user520@email.com,Needs Review
+User_521,57,61062,Employed,8321,618,0.34,36,Address_521,user521@email.com,Needs Review
+User_522,32,79237,Unemployed,20812,803,0.17,24,Address_522,user522@email.com,Eligible
+User_523,33,76571,Unemployed,42383,686,0.11,12,Address_523,user523@email.com,Not Eligible
+User_524,43,50510,Employed,18146,793,0.25,60,Address_524,user524@email.com,Not Eligible
+User_525,45,44426,Unemployed,18654,789,0.32,36,Address_525,user525@email.com,Eligible
+User_526,55,62265,Self-Employed,40820,372,0.44,24,Address_526,user526@email.com,Eligible
+User_527,61,42850,Self-Employed,5726,808,0.15,36,Address_527,user527@email.com,Eligible
+User_528,50,143249,Self-Employed,8760,689,0.42,60,Address_528,user528@email.com,Needs Review
+User_529,37,91150,Employed,27190,594,0.45,24,Address_529,user529@email.com,Eligible
+User_530,40,112312,Unemployed,6875,668,0.16,12,Address_530,user530@email.com,Eligible
+User_531,45,114613,Employed,28377,848,0.44,24,Address_531,user531@email.com,Not Eligible
+User_532,42,99910,Unemployed,9033,486,0.5,36,Address_532,user532@email.com,Eligible
+User_533,33,77375,Self-Employed,43211,744,0.39,36,Address_533,user533@email.com,Eligible
+User_534,39,146826,Employed,22373,662,0.41,36,Address_534,user534@email.com,Not Eligible
+User_535,56,60435,Unemployed,8744,422,0.5,36,Address_535,user535@email.com,Eligible
+User_536,32,121443,Unemployed,29995,487,0.34,12,Address_536,user536@email.com,Not Eligible
+User_537,61,82132,Self-Employed,21977,719,0.22,24,Address_537,user537@email.com,Eligible
+User_538,39,103945,Employed,37402,551,0.44,12,Address_538,user538@email.com,Not Eligible
+User_539,32,107050,Employed,39542,848,0.35,12,Address_539,user539@email.com,Not Eligible
+User_540,29,120402,Employed,15651,634,0.33,12,Address_540,user540@email.com,Eligible
+User_541,27,27983,Self-Employed,38703,391,0.2,36,Address_541,user541@email.com,Eligible
+User_542,48,122241,Employed,18395,829,0.4,36,Address_542,user542@email.com,Not Eligible
+User_543,34,45662,Self-Employed,34808,362,0.13,36,Address_543,user543@email.com,Not Eligible
+User_544,51,48510,Self-Employed,41576,811,0.47,24,Address_544,user544@email.com,Not Eligible
+User_545,39,103187,Self-Employed,21715,438,0.23,60,Address_545,user545@email.com,Not Eligible
+User_546,36,65998,Unemployed,49409,484,0.15,36,Address_546,user546@email.com,Eligible
+User_547,25,81846,Employed,29306,504,0.28,24,Address_547,user547@email.com,Eligible
+User_548,55,119071,Employed,24086,513,0.12,36,Address_548,user548@email.com,Needs Review
+User_549,32,31640,Self-Employed,19376,555,0.37,36,Address_549,user549@email.com,Eligible
+User_550,45,69547,Self-Employed,10889,434,0.46,12,Address_550,user550@email.com,Eligible
+User_551,41,79620,Employed,42822,387,0.43,12,Address_551,user551@email.com,Eligible
+User_552,56,40317,Self-Employed,41636,506,0.15,12,Address_552,user552@email.com,Eligible
+User_553,43,140608,Employed,25584,428,0.15,24,Address_553,user553@email.com,Eligible
+User_554,36,32564,Unemployed,39610,302,0.43,60,Address_554,user554@email.com,Needs Review
+User_555,59,52345,Self-Employed,15058,420,0.47,60,Address_555,user555@email.com,Eligible
+User_556,62,138824,Employed,14101,684,0.28,24,Address_556,user556@email.com,Eligible
+User_557,59,119223,Self-Employed,17497,337,0.3,36,Address_557,user557@email.com,Needs Review
+User_558,34,148372,Employed,9658,640,0.23,24,Address_558,user558@email.com,Needs Review
+User_559,51,104273,Employed,16381,320,0.46,36,Address_559,user559@email.com,Eligible
+User_560,25,99859,Self-Employed,45312,541,0.36,24,Address_560,user560@email.com,Eligible
+User_561,55,105765,Unemployed,45486,754,0.22,24,Address_561,user561@email.com,Not Eligible
+User_562,43,135017,Employed,22154,602,0.22,24,Address_562,user562@email.com,Not Eligible
+User_563,49,99038,Employed,24539,368,0.46,60,Address_563,user563@email.com,Not Eligible
+User_564,63,148618,Employed,16777,428,0.11,12,Address_564,user564@email.com,Not Eligible
+User_565,31,77393,Unemployed,39396,495,0.23,24,Address_565,user565@email.com,Not Eligible
+User_566,38,91081,Unemployed,35373,439,0.32,60,Address_566,user566@email.com,Eligible
+User_567,32,127650,Self-Employed,38154,743,0.16,12,Address_567,user567@email.com,Not Eligible
+User_568,29,54430,Unemployed,11031,582,0.14,12,Address_568,user568@email.com,Eligible
+User_569,30,100532,Self-Employed,32997,611,0.43,24,Address_569,user569@email.com,Not Eligible
+User_570,64,52788,Self-Employed,11439,834,0.46,36,Address_570,user570@email.com,Not Eligible
+User_571,37,120505,Unemployed,27785,576,0.43,36,Address_571,user571@email.com,Eligible
+User_572,58,73543,Self-Employed,18392,360,0.46,36,Address_572,user572@email.com,Eligible
+User_573,27,38919,Unemployed,33669,618,0.32,24,Address_573,user573@email.com,Eligible
+User_574,33,94346,Self-Employed,33939,351,0.42,36,Address_574,user574@email.com,Eligible
+User_575,60,121122,Unemployed,7282,452,0.25,60,Address_575,user575@email.com,Not Eligible
+User_576,62,64974,Unemployed,39624,610,0.37,60,Address_576,user576@email.com,Eligible
+User_577,29,132309,Self-Employed,29364,843,0.5,60,Address_577,user577@email.com,Not Eligible
+User_578,47,41371,Employed,6998,688,0.19,60,Address_578,user578@email.com,Eligible
+User_579,22,70084,Self-Employed,36705,847,0.26,12,Address_579,user579@email.com,Not Eligible
+User_580,25,54629,Unemployed,43244,476,0.29,60,Address_580,user580@email.com,Not Eligible
+User_581,49,76184,Employed,14428,661,0.16,36,Address_581,user581@email.com,Not Eligible
+User_582,57,86916,Self-Employed,42437,613,0.13,24,Address_582,user582@email.com,Eligible
+User_583,58,98972,Self-Employed,17336,396,0.43,36,Address_583,user583@email.com,Needs Review
+User_584,39,87187,Self-Employed,14342,512,0.49,60,Address_584,user584@email.com,Eligible
+User_585,28,37984,Employed,44832,436,0.26,12,Address_585,user585@email.com,Eligible
+User_586,21,58039,Unemployed,12446,305,0.14,60,Address_586,user586@email.com,Eligible
+User_587,42,110431,Self-Employed,43392,408,0.13,24,Address_587,user587@email.com,Eligible
+User_588,37,108691,Self-Employed,12461,846,0.46,36,Address_588,user588@email.com,Needs Review
+User_589,27,83606,Self-Employed,39587,338,0.29,24,Address_589,user589@email.com,Eligible
+User_590,45,35616,Self-Employed,15516,724,0.23,24,Address_590,user590@email.com,Not Eligible
+User_591,24,127665,Self-Employed,18749,560,0.29,24,Address_591,user591@email.com,Not Eligible
+User_592,56,130373,Unemployed,22514,725,0.23,36,Address_592,user592@email.com,Eligible
+User_593,26,75072,Unemployed,40426,386,0.3,60,Address_593,user593@email.com,Not Eligible
+User_594,51,49574,Self-Employed,41268,764,0.44,24,Address_594,user594@email.com,Eligible
+User_595,39,28430,Employed,29950,375,0.34,36,Address_595,user595@email.com,Eligible
+User_596,64,144123,Unemployed,39888,770,0.38,12,Address_596,user596@email.com,Eligible
+User_597,59,37676,Employed,41788,713,0.25,36,Address_597,user597@email.com,Needs Review
+User_598,47,35816,Unemployed,15213,756,0.4,12,Address_598,user598@email.com,Needs Review
+User_599,30,57733,Self-Employed,41027,584,0.37,36,Address_599,user599@email.com,Eligible
+User_600,46,110680,Unemployed,33011,538,0.15,60,Address_600,user600@email.com,Eligible
+User_601,39,27050,Self-Employed,47849,671,0.33,24,Address_601,user601@email.com,Not Eligible
+User_602,59,134996,Unemployed,39591,794,0.2,60,Address_602,user602@email.com,Eligible
+User_603,23,58933,Self-Employed,22858,344,0.42,36,Address_603,user603@email.com,Not Eligible
+User_604,33,49951,Self-Employed,23626,700,0.27,24,Address_604,user604@email.com,Eligible
+User_605,48,57413,Self-Employed,18467,546,0.5,12,Address_605,user605@email.com,Eligible
+User_606,40,59801,Self-Employed,44758,749,0.14,36,Address_606,user606@email.com,Not Eligible
+User_607,48,80619,Employed,8134,784,0.41,24,Address_607,user607@email.com,Eligible
+User_608,28,57913,Self-Employed,21743,317,0.37,12,Address_608,user608@email.com,Needs Review
+User_609,61,137573,Employed,20434,588,0.41,12,Address_609,user609@email.com,Needs Review
+User_610,59,144076,Employed,15233,713,0.22,60,Address_610,user610@email.com,Eligible
+User_611,21,65600,Self-Employed,6141,534,0.3,36,Address_611,user611@email.com,Eligible
+User_612,23,82775,Employed,23019,715,0.42,12,Address_612,user612@email.com,Needs Review
+User_613,33,115816,Unemployed,25384,798,0.19,24,Address_613,user613@email.com,Needs Review
+User_614,48,115093,Self-Employed,47903,414,0.19,12,Address_614,user614@email.com,Eligible
+User_615,45,137590,Employed,41129,533,0.32,12,Address_615,user615@email.com,Not Eligible
+User_616,53,60400,Self-Employed,27967,839,0.31,60,Address_616,user616@email.com,Eligible
+User_617,58,29494,Self-Employed,45603,310,0.21,60,Address_617,user617@email.com,Eligible
+User_618,26,105688,Self-Employed,16172,505,0.22,24,Address_618,user618@email.com,Not Eligible
+User_619,64,147744,Employed,21390,546,0.21,60,Address_619,user619@email.com,Eligible
+User_620,52,114431,Unemployed,8267,426,0.41,12,Address_620,user620@email.com,Needs Review
+User_621,41,99691,Unemployed,44332,446,0.36,12,Address_621,user621@email.com,Eligible
+User_622,36,122419,Employed,31167,417,0.43,60,Address_622,user622@email.com,Not Eligible
+User_623,41,133730,Self-Employed,26312,681,0.49,12,Address_623,user623@email.com,Eligible
+User_624,31,68001,Employed,32840,711,0.29,12,Address_624,user624@email.com,Eligible
+User_625,57,92364,Employed,23990,662,0.13,24,Address_625,user625@email.com,Not Eligible
+User_626,56,149988,Employed,49179,808,0.12,60,Address_626,user626@email.com,Eligible
+User_627,55,70028,Self-Employed,10906,436,0.22,12,Address_627,user627@email.com,Eligible
+User_628,39,132434,Employed,45379,474,0.47,60,Address_628,user628@email.com,Eligible
+User_629,40,122659,Self-Employed,22297,588,0.31,24,Address_629,user629@email.com,Eligible
+User_630,38,62573,Employed,7011,780,0.21,60,Address_630,user630@email.com,Not Eligible
+User_631,61,25806,Unemployed,49014,318,0.26,12,Address_631,user631@email.com,Eligible
+User_632,34,149343,Employed,16738,494,0.34,60,Address_632,user632@email.com,Eligible
+User_633,35,81638,Employed,33797,629,0.36,12,Address_633,user633@email.com,Eligible
+User_634,51,131506,Unemployed,16120,474,0.16,12,Address_634,user634@email.com,Eligible
+User_635,21,54757,Self-Employed,13767,748,0.49,12,Address_635,user635@email.com,Eligible
+User_636,23,59636,Self-Employed,27852,653,0.32,24,Address_636,user636@email.com,Eligible
+User_637,36,105097,Employed,18703,798,0.15,60,Address_637,user637@email.com,Eligible
+User_638,43,73280,Unemployed,5929,440,0.46,24,Address_638,user638@email.com,Not Eligible
+User_639,31,49262,Self-Employed,16951,392,0.13,60,Address_639,user639@email.com,Not Eligible
+User_640,32,105435,Employed,31039,538,0.46,24,Address_640,user640@email.com,Eligible
+User_641,30,87211,Unemployed,34504,504,0.5,36,Address_641,user641@email.com,Eligible
+User_642,52,79842,Self-Employed,22438,732,0.38,12,Address_642,user642@email.com,Eligible
+User_643,36,81979,Self-Employed,10744,544,0.41,12,Address_643,user643@email.com,Eligible
+User_644,28,139524,Unemployed,23284,616,0.23,24,Address_644,user644@email.com,Eligible
+User_645,58,106470,Unemployed,47417,594,0.48,36,Address_645,user645@email.com,Eligible
+User_646,32,63197,Unemployed,44748,581,0.31,12,Address_646,user646@email.com,Eligible
+User_647,44,66844,Unemployed,12069,316,0.39,60,Address_647,user647@email.com,Eligible
+User_648,48,89754,Employed,47359,370,0.47,24,Address_648,user648@email.com,Eligible
+User_649,28,126868,Unemployed,24799,568,0.49,12,Address_649,user649@email.com,Eligible
+User_650,48,59157,Self-Employed,38210,624,0.43,12,Address_650,user650@email.com,Eligible
+User_651,56,102129,Self-Employed,33226,604,0.22,24,Address_651,user651@email.com,Eligible
+User_652,46,65042,Employed,9652,750,0.49,24,Address_652,user652@email.com,Eligible
+User_653,28,86665,Self-Employed,29323,306,0.35,60,Address_653,user653@email.com,Eligible
+User_654,48,140512,Self-Employed,47138,613,0.47,60,Address_654,user654@email.com,Eligible
+User_655,48,141953,Unemployed,12597,402,0.37,12,Address_655,user655@email.com,Eligible
+User_656,57,107856,Self-Employed,42226,492,0.22,12,Address_656,user656@email.com,Eligible
+User_657,61,52376,Employed,11591,828,0.25,24,Address_657,user657@email.com,Eligible
+User_658,56,134049,Unemployed,30833,470,0.32,12,Address_658,user658@email.com,Eligible
+User_659,47,80554,Unemployed,16826,836,0.42,12,Address_659,user659@email.com,Eligible
+User_660,37,39199,Employed,31417,550,0.23,24,Address_660,user660@email.com,Not Eligible
+User_661,29,143533,Unemployed,23693,686,0.33,12,Address_661,user661@email.com,Eligible
+User_662,53,106412,Unemployed,19138,506,0.24,12,Address_662,user662@email.com,Eligible
+User_663,40,75948,Employed,7169,840,0.43,36,Address_663,user663@email.com,Not Eligible
+User_664,33,98781,Unemployed,23556,715,0.29,60,Address_664,user664@email.com,Eligible
+User_665,48,97750,Employed,27052,679,0.13,24,Address_665,user665@email.com,Eligible
+User_666,49,91262,Employed,11313,443,0.17,36,Address_666,user666@email.com,Not Eligible
+User_667,33,142424,Self-Employed,13315,324,0.12,60,Address_667,user667@email.com,Not Eligible
+User_668,55,71600,Self-Employed,13036,372,0.3,60,Address_668,user668@email.com,Eligible
+User_669,26,101898,Unemployed,36778,392,0.14,60,Address_669,user669@email.com,Eligible
+User_670,38,87483,Unemployed,32734,804,0.15,36,Address_670,user670@email.com,Eligible
+User_671,25,43297,Employed,28173,635,0.48,36,Address_671,user671@email.com,Eligible
+User_672,45,55448,Unemployed,35403,724,0.45,60,Address_672,user672@email.com,Eligible
+User_673,22,51172,Employed,5785,798,0.28,12,Address_673,user673@email.com,Eligible
+User_674,30,67874,Employed,11139,663,0.49,12,Address_674,user674@email.com,Eligible
+User_675,50,32657,Unemployed,11344,498,0.1,36,Address_675,user675@email.com,Needs Review
+User_676,25,109386,Employed,23800,712,0.35,36,Address_676,user676@email.com,Needs Review
+User_677,53,50425,Self-Employed,30372,638,0.35,36,Address_677,user677@email.com,Eligible
+User_678,21,51685,Unemployed,25538,728,0.28,60,Address_678,user678@email.com,Not Eligible
+User_679,38,147000,Self-Employed,19973,438,0.26,12,Address_679,user679@email.com,Eligible
+User_680,52,137855,Unemployed,10619,841,0.28,36,Address_680,user680@email.com,Not Eligible
+User_681,31,49578,Employed,39704,356,0.27,36,Address_681,user681@email.com,Eligible
+User_682,41,53831,Unemployed,41575,531,0.39,24,Address_682,user682@email.com,Eligible
+User_683,46,32906,Self-Employed,44919,734,0.15,60,Address_683,user683@email.com,Eligible
+User_684,45,86413,Employed,47261,683,0.18,24,Address_684,user684@email.com,Eligible
+User_685,42,79028,Unemployed,32716,493,0.17,12,Address_685,user685@email.com,Eligible
+User_686,47,32287,Unemployed,8236,833,0.2,24,Address_686,user686@email.com,Not Eligible
+User_687,33,58660,Unemployed,20848,817,0.31,24,Address_687,user687@email.com,Not Eligible
+User_688,53,100758,Self-Employed,7352,484,0.14,24,Address_688,user688@email.com,Eligible
+User_689,54,85504,Self-Employed,6932,591,0.45,60,Address_689,user689@email.com,Eligible
+User_690,61,84720,Unemployed,15913,634,0.22,12,Address_690,user690@email.com,Eligible
+User_691,55,127979,Employed,13556,415,0.17,24,Address_691,user691@email.com,Not Eligible
+User_692,21,59701,Employed,26300,348,0.37,60,Address_692,user692@email.com,Needs Review
+User_693,41,108300,Self-Employed,10498,381,0.12,12,Address_693,user693@email.com,Needs Review
+User_694,26,135177,Employed,15582,632,0.35,36,Address_694,user694@email.com,Not Eligible
+User_695,48,42674,Self-Employed,14569,634,0.38,24,Address_695,user695@email.com,Eligible
+User_696,37,108560,Unemployed,9857,831,0.19,12,Address_696,user696@email.com,Eligible
+User_697,25,136543,Self-Employed,5340,520,0.12,24,Address_697,user697@email.com,Eligible
+User_698,51,48874,Self-Employed,48949,622,0.25,36,Address_698,user698@email.com,Needs Review
+User_699,25,68642,Unemployed,21766,302,0.14,12,Address_699,user699@email.com,Eligible
+User_700,58,148867,Employed,31132,505,0.15,60,Address_700,user700@email.com,Eligible
+User_701,23,122820,Self-Employed,13491,339,0.2,12,Address_701,user701@email.com,Not Eligible
+User_702,43,90160,Self-Employed,5138,358,0.22,60,Address_702,user702@email.com,Eligible
+User_703,57,42602,Unemployed,5358,806,0.31,12,Address_703,user703@email.com,Eligible
+User_704,57,128320,Employed,14714,421,0.37,60,Address_704,user704@email.com,Not Eligible
+User_705,30,113801,Self-Employed,24840,778,0.34,36,Address_705,user705@email.com,Eligible
+User_706,30,50931,Unemployed,39395,395,0.16,36,Address_706,user706@email.com,Eligible
+User_707,39,119377,Self-Employed,35654,713,0.17,36,Address_707,user707@email.com,Not Eligible
+User_708,37,54192,Unemployed,30879,534,0.45,12,Address_708,user708@email.com,Not Eligible
+User_709,41,71542,Employed,20996,361,0.32,36,Address_709,user709@email.com,Needs Review
+User_710,34,67520,Employed,42772,555,0.45,24,Address_710,user710@email.com,Eligible
+User_711,29,89772,Employed,31762,647,0.25,36,Address_711,user711@email.com,Eligible
+User_712,21,83762,Employed,18283,423,0.35,60,Address_712,user712@email.com,Not Eligible
+User_713,33,75106,Self-Employed,44420,781,0.31,60,Address_713,user713@email.com,Eligible
+User_714,24,106121,Self-Employed,24554,616,0.23,60,Address_714,user714@email.com,Eligible
+User_715,21,50559,Employed,25219,803,0.29,12,Address_715,user715@email.com,Not Eligible
+User_716,60,130595,Employed,39919,347,0.3,24,Address_716,user716@email.com,Eligible
+User_717,52,58742,Employed,14429,708,0.18,36,Address_717,user717@email.com,Eligible
+User_718,54,94669,Self-Employed,49695,435,0.23,24,Address_718,user718@email.com,Eligible
+User_719,48,105199,Employed,44673,500,0.42,24,Address_719,user719@email.com,Eligible
+User_720,51,46754,Employed,24218,549,0.47,60,Address_720,user720@email.com,Eligible
+User_721,28,28972,Employed,17452,613,0.24,60,Address_721,user721@email.com,Eligible
+User_722,59,95831,Unemployed,23951,667,0.22,60,Address_722,user722@email.com,Not Eligible
+User_723,46,137217,Employed,6307,728,0.18,12,Address_723,user723@email.com,Needs Review
+User_724,54,66873,Unemployed,19852,779,0.37,24,Address_724,user724@email.com,Eligible
+User_725,23,119661,Unemployed,30232,613,0.23,24,Address_725,user725@email.com,Eligible
+User_726,32,131532,Employed,40428,799,0.5,12,Address_726,user726@email.com,Eligible
+User_727,21,34903,Unemployed,48171,654,0.23,12,Address_727,user727@email.com,Eligible
+User_728,64,28020,Employed,31485,784,0.26,12,Address_728,user728@email.com,Not Eligible
+User_729,25,66755,Self-Employed,15238,510,0.34,24,Address_729,user729@email.com,Not Eligible
+User_730,50,110956,Self-Employed,43975,343,0.42,24,Address_730,user730@email.com,Not Eligible
+User_731,50,111988,Self-Employed,6140,840,0.29,60,Address_731,user731@email.com,Eligible
+User_732,37,70648,Self-Employed,29842,391,0.27,60,Address_732,user732@email.com,Eligible
+User_733,43,128537,Unemployed,31421,564,0.5,24,Address_733,user733@email.com,Eligible
+User_734,35,34516,Employed,6708,519,0.1,60,Address_734,user734@email.com,Eligible
+User_735,57,137863,Employed,8630,741,0.46,12,Address_735,user735@email.com,Not Eligible
+User_736,41,140005,Employed,24595,700,0.16,36,Address_736,user736@email.com,Needs Review
+User_737,34,27396,Self-Employed,15485,699,0.41,60,Address_737,user737@email.com,Eligible
+User_738,22,109082,Self-Employed,33308,789,0.35,24,Address_738,user738@email.com,Not Eligible
+User_739,31,44129,Employed,49789,784,0.24,60,Address_739,user739@email.com,Eligible
+User_740,59,26591,Self-Employed,31086,769,0.45,60,Address_740,user740@email.com,Eligible
+User_741,58,36303,Employed,21859,744,0.11,60,Address_741,user741@email.com,Eligible
+User_742,54,55561,Employed,12684,568,0.19,36,Address_742,user742@email.com,Eligible
+User_743,58,96719,Employed,30552,566,0.33,12,Address_743,user743@email.com,Eligible
+User_744,54,143618,Employed,6207,353,0.24,24,Address_744,user744@email.com,Not Eligible
+User_745,38,117108,Employed,6960,827,0.34,36,Address_745,user745@email.com,Not Eligible
+User_746,50,124616,Employed,5557,819,0.11,24,Address_746,user746@email.com,Eligible
+User_747,35,149165,Employed,34689,358,0.15,24,Address_747,user747@email.com,Eligible
+User_748,47,111231,Self-Employed,18893,339,0.15,24,Address_748,user748@email.com,Not Eligible
+User_749,54,32314,Employed,37272,536,0.18,36,Address_749,user749@email.com,Not Eligible
+User_750,58,142071,Employed,5882,685,0.28,12,Address_750,user750@email.com,Not Eligible
+User_751,53,44623,Self-Employed,42529,599,0.4,24,Address_751,user751@email.com,Eligible
+User_752,44,92675,Self-Employed,43635,694,0.46,12,Address_752,user752@email.com,Needs Review
+User_753,35,137992,Self-Employed,34535,506,0.43,12,Address_753,user753@email.com,Eligible
+User_754,50,121826,Employed,17869,635,0.18,60,Address_754,user754@email.com,Not Eligible
+User_755,62,90082,Unemployed,12166,813,0.28,36,Address_755,user755@email.com,Eligible
+User_756,37,108624,Unemployed,17982,477,0.18,36,Address_756,user756@email.com,Not Eligible
+User_757,25,130228,Self-Employed,45697,695,0.21,60,Address_757,user757@email.com,Eligible
+User_758,49,58130,Unemployed,43115,670,0.3,60,Address_758,user758@email.com,Eligible
+User_759,24,76756,Self-Employed,12269,617,0.13,12,Address_759,user759@email.com,Eligible
+User_760,30,122624,Employed,33064,668,0.19,24,Address_760,user760@email.com,Eligible
+User_761,37,51292,Unemployed,18527,683,0.47,36,Address_761,user761@email.com,Not Eligible
+User_762,30,136785,Employed,7454,361,0.29,24,Address_762,user762@email.com,Not Eligible
+User_763,37,111206,Unemployed,25878,804,0.28,24,Address_763,user763@email.com,Needs Review
+User_764,40,94274,Employed,17991,538,0.11,60,Address_764,user764@email.com,Eligible
+User_765,44,27469,Unemployed,7808,494,0.2,24,Address_765,user765@email.com,Not Eligible
+User_766,25,78947,Employed,44410,521,0.45,12,Address_766,user766@email.com,Not Eligible
+User_767,54,47534,Employed,41593,360,0.17,60,Address_767,user767@email.com,Eligible
+User_768,26,88620,Unemployed,41304,428,0.27,24,Address_768,user768@email.com,Eligible
+User_769,22,73874,Employed,35386,455,0.11,60,Address_769,user769@email.com,Not Eligible
+User_770,33,74708,Employed,8802,677,0.29,12,Address_770,user770@email.com,Needs Review
+User_771,63,99553,Employed,33753,736,0.11,12,Address_771,user771@email.com,Not Eligible
+User_772,63,93344,Unemployed,26083,506,0.43,24,Address_772,user772@email.com,Eligible
+User_773,31,74138,Unemployed,23354,687,0.43,60,Address_773,user773@email.com,Eligible
+User_774,43,79302,Employed,27190,779,0.42,24,Address_774,user774@email.com,Eligible
+User_775,36,72638,Employed,11142,639,0.21,24,Address_775,user775@email.com,Not Eligible
+User_776,51,103249,Unemployed,33398,639,0.43,60,Address_776,user776@email.com,Not Eligible
+User_777,31,130865,Unemployed,46862,503,0.32,24,Address_777,user777@email.com,Eligible
+User_778,36,27719,Employed,38132,460,0.25,12,Address_778,user778@email.com,Not Eligible
+User_779,28,47890,Employed,24503,839,0.35,60,Address_779,user779@email.com,Eligible
+User_780,24,102236,Employed,39631,691,0.1,60,Address_780,user780@email.com,Needs Review
+User_781,60,61509,Self-Employed,21499,833,0.16,60,Address_781,user781@email.com,Eligible
+User_782,24,67534,Unemployed,44852,369,0.4,60,Address_782,user782@email.com,Eligible
+User_783,45,127302,Self-Employed,13016,704,0.2,24,Address_783,user783@email.com,Eligible
+User_784,23,117241,Unemployed,7384,816,0.34,24,Address_784,user784@email.com,Eligible
+User_785,52,43787,Unemployed,20072,419,0.25,12,Address_785,user785@email.com,Eligible
+User_786,23,73845,Unemployed,41703,516,0.44,36,Address_786,user786@email.com,Eligible
+User_787,47,82932,Unemployed,19482,355,0.48,36,Address_787,user787@email.com,Eligible
+User_788,49,117124,Unemployed,45510,665,0.45,12,Address_788,user788@email.com,Not Eligible
+User_789,52,116659,Unemployed,26826,803,0.21,36,Address_789,user789@email.com,Eligible
+User_790,39,58062,Unemployed,7490,754,0.18,12,Address_790,user790@email.com,Eligible
+User_791,41,100713,Self-Employed,30518,403,0.29,24,Address_791,user791@email.com,Eligible
+User_792,25,112263,Employed,29045,376,0.1,60,Address_792,user792@email.com,Not Eligible
+User_793,38,120756,Employed,31910,529,0.11,60,Address_793,user793@email.com,Eligible
+User_794,48,85461,Self-Employed,29566,557,0.32,24,Address_794,user794@email.com,Needs Review
+User_795,62,100418,Self-Employed,38905,563,0.31,60,Address_795,user795@email.com,Not Eligible
+User_796,42,91672,Self-Employed,32103,630,0.5,60,Address_796,user796@email.com,Eligible
+User_797,41,59832,Self-Employed,41188,481,0.18,36,Address_797,user797@email.com,Eligible
+User_798,26,56966,Unemployed,10845,849,0.2,24,Address_798,user798@email.com,Eligible
+User_799,21,97545,Employed,26162,326,0.15,36,Address_799,user799@email.com,Eligible
+User_800,25,37987,Unemployed,41674,575,0.47,36,Address_800,user800@email.com,Not Eligible
+User_801,61,62311,Employed,24337,598,0.41,60,Address_801,user801@email.com,Needs Review
+User_802,32,56575,Employed,27313,390,0.43,60,Address_802,user802@email.com,Eligible
+User_803,46,88852,Self-Employed,31943,779,0.46,24,Address_803,user803@email.com,Eligible
+User_804,54,26007,Unemployed,17413,757,0.31,60,Address_804,user804@email.com,Not Eligible
+User_805,34,95981,Self-Employed,5276,750,0.28,60,Address_805,user805@email.com,Not Eligible
+User_806,46,101242,Unemployed,22611,664,0.23,24,Address_806,user806@email.com,Eligible
+User_807,47,72517,Employed,44105,650,0.34,60,Address_807,user807@email.com,Eligible
+User_808,29,135022,Self-Employed,16944,699,0.28,36,Address_808,user808@email.com,Eligible
+User_809,46,54257,Self-Employed,20906,552,0.28,24,Address_809,user809@email.com,Not Eligible
+User_810,42,112272,Employed,25536,758,0.47,60,Address_810,user810@email.com,Eligible
+User_811,50,67207,Employed,32810,798,0.49,12,Address_811,user811@email.com,Eligible
+User_812,63,38281,Employed,17306,807,0.42,24,Address_812,user812@email.com,Needs Review
+User_813,37,86246,Self-Employed,15503,603,0.4,24,Address_813,user813@email.com,Not Eligible
+User_814,46,26435,Unemployed,24225,800,0.37,12,Address_814,user814@email.com,Not Eligible
+User_815,56,123875,Self-Employed,41976,465,0.17,60,Address_815,user815@email.com,Eligible
+User_816,21,125686,Unemployed,16590,714,0.12,60,Address_816,user816@email.com,Eligible
+User_817,28,116357,Self-Employed,15886,761,0.38,24,Address_817,user817@email.com,Needs Review
+User_818,55,51660,Self-Employed,17866,413,0.39,24,Address_818,user818@email.com,Eligible
+User_819,35,30084,Employed,6088,732,0.12,60,Address_819,user819@email.com,Eligible
+User_820,42,107197,Unemployed,8363,655,0.47,60,Address_820,user820@email.com,Eligible
+User_821,34,38507,Self-Employed,37792,506,0.14,36,Address_821,user821@email.com,Eligible
+User_822,46,97595,Self-Employed,14764,534,0.21,24,Address_822,user822@email.com,Eligible
+User_823,48,108807,Employed,25620,741,0.37,24,Address_823,user823@email.com,Not Eligible
+User_824,43,70539,Employed,47727,654,0.17,12,Address_824,user824@email.com,Needs Review
+User_825,34,140953,Unemployed,17935,814,0.12,36,Address_825,user825@email.com,Needs Review
+User_826,44,32491,Self-Employed,13068,507,0.23,60,Address_826,user826@email.com,Eligible
+User_827,22,137831,Unemployed,12295,424,0.41,36,Address_827,user827@email.com,Eligible
+User_828,46,75192,Self-Employed,46160,437,0.27,60,Address_828,user828@email.com,Eligible
+User_829,34,105395,Unemployed,16390,638,0.36,60,Address_829,user829@email.com,Not Eligible
+User_830,27,148797,Employed,46216,836,0.33,36,Address_830,user830@email.com,Eligible
+User_831,23,88888,Self-Employed,25131,367,0.11,24,Address_831,user831@email.com,Not Eligible
+User_832,43,98609,Unemployed,34218,840,0.5,60,Address_832,user832@email.com,Not Eligible
+User_833,63,34077,Employed,15433,682,0.12,36,Address_833,user833@email.com,Eligible
+User_834,38,142440,Employed,20038,318,0.49,12,Address_834,user834@email.com,Eligible
+User_835,58,147901,Unemployed,33182,749,0.32,36,Address_835,user835@email.com,Needs Review
+User_836,55,45953,Self-Employed,16528,373,0.49,12,Address_836,user836@email.com,Needs Review
+User_837,35,101919,Self-Employed,26281,575,0.15,60,Address_837,user837@email.com,Eligible
+User_838,45,139682,Employed,13605,347,0.3,36,Address_838,user838@email.com,Eligible
+User_839,57,146041,Self-Employed,39782,510,0.17,36,Address_839,user839@email.com,Needs Review
+User_840,48,92889,Self-Employed,6381,839,0.12,12,Address_840,user840@email.com,Eligible
+User_841,30,48821,Self-Employed,6098,490,0.35,36,Address_841,user841@email.com,Eligible
+User_842,59,62567,Employed,24810,614,0.18,36,Address_842,user842@email.com,Eligible
+User_843,37,140374,Unemployed,29322,412,0.34,60,Address_843,user843@email.com,Eligible
+User_844,59,49860,Self-Employed,46869,469,0.14,36,Address_844,user844@email.com,Eligible
+User_845,42,46195,Employed,37955,767,0.23,24,Address_845,user845@email.com,Eligible
+User_846,46,102475,Employed,49716,313,0.41,12,Address_846,user846@email.com,Eligible
+User_847,64,115874,Unemployed,15207,587,0.27,36,Address_847,user847@email.com,Eligible
+User_848,45,112266,Self-Employed,26793,488,0.35,12,Address_848,user848@email.com,Needs Review
+User_849,37,46427,Self-Employed,7092,454,0.36,12,Address_849,user849@email.com,Not Eligible
+User_850,33,125732,Unemployed,33220,770,0.44,12,Address_850,user850@email.com,Not Eligible
+User_851,40,52083,Unemployed,23514,374,0.23,36,Address_851,user851@email.com,Not Eligible
+User_852,45,112046,Employed,43010,576,0.37,36,Address_852,user852@email.com,Eligible
+User_853,24,82372,Employed,13549,642,0.48,12,Address_853,user853@email.com,Eligible
+User_854,30,148786,Unemployed,27031,724,0.39,24,Address_854,user854@email.com,Needs Review
+User_855,23,69064,Self-Employed,10185,810,0.3,12,Address_855,user855@email.com,Eligible
+User_856,61,32813,Employed,20271,481,0.35,24,Address_856,user856@email.com,Eligible
+User_857,38,56598,Employed,10776,757,0.4,12,Address_857,user857@email.com,Not Eligible
+User_858,56,137718,Self-Employed,17449,363,0.34,60,Address_858,user858@email.com,Eligible
+User_859,42,118106,Employed,29297,559,0.11,12,Address_859,user859@email.com,Eligible
+User_860,54,52082,Self-Employed,45591,492,0.18,12,Address_860,user860@email.com,Needs Review
+User_861,28,54241,Self-Employed,20717,705,0.42,36,Address_861,user861@email.com,Not Eligible
+User_862,60,121214,Self-Employed,45123,392,0.21,24,Address_862,user862@email.com,Eligible
+User_863,64,69569,Unemployed,44233,729,0.39,60,Address_863,user863@email.com,Needs Review
+User_864,39,36745,Unemployed,15350,733,0.25,24,Address_864,user864@email.com,Not Eligible
+User_865,62,51029,Unemployed,35622,703,0.31,60,Address_865,user865@email.com,Not Eligible
+User_866,61,38025,Self-Employed,40323,733,0.13,12,Address_866,user866@email.com,Eligible
+User_867,57,126660,Self-Employed,7951,411,0.17,36,Address_867,user867@email.com,Eligible
+User_868,26,148395,Unemployed,22622,674,0.48,36,Address_868,user868@email.com,Not Eligible
+User_869,46,39288,Employed,9727,358,0.46,24,Address_869,user869@email.com,Not Eligible
+User_870,54,114186,Self-Employed,43454,342,0.36,36,Address_870,user870@email.com,Not Eligible
+User_871,26,31540,Employed,41469,506,0.28,24,Address_871,user871@email.com,Eligible
+User_872,57,122768,Employed,40548,595,0.37,24,Address_872,user872@email.com,Eligible
+User_873,53,106958,Self-Employed,28782,417,0.35,60,Address_873,user873@email.com,Not Eligible
+User_874,42,93878,Self-Employed,33454,831,0.33,24,Address_874,user874@email.com,Eligible
+User_875,41,66846,Employed,7368,521,0.12,60,Address_875,user875@email.com,Eligible
+User_876,26,126148,Employed,20592,465,0.35,36,Address_876,user876@email.com,Eligible
+User_877,26,100932,Unemployed,27173,455,0.41,24,Address_877,user877@email.com,Eligible
+User_878,24,42482,Unemployed,38204,483,0.5,24,Address_878,user878@email.com,Not Eligible
+User_879,50,48411,Self-Employed,40596,389,0.1,12,Address_879,user879@email.com,Not Eligible
+User_880,31,75975,Unemployed,39324,393,0.39,24,Address_880,user880@email.com,Eligible
+User_881,50,85545,Unemployed,28864,312,0.33,24,Address_881,user881@email.com,Eligible
+User_882,51,137302,Unemployed,35750,737,0.27,12,Address_882,user882@email.com,Not Eligible
+User_883,44,103797,Unemployed,15576,837,0.15,12,Address_883,user883@email.com,Eligible
+User_884,29,77307,Employed,21566,449,0.26,36,Address_884,user884@email.com,Eligible
+User_885,23,28093,Self-Employed,12190,307,0.24,24,Address_885,user885@email.com,Needs Review
+User_886,51,102258,Unemployed,28071,328,0.22,36,Address_886,user886@email.com,Eligible
+User_887,60,47042,Employed,43333,595,0.39,36,Address_887,user887@email.com,Needs Review
+User_888,57,77930,Employed,20369,639,0.38,12,Address_888,user888@email.com,Eligible
+User_889,56,142584,Employed,29035,738,0.34,60,Address_889,user889@email.com,Eligible
+User_890,44,69413,Unemployed,6589,443,0.48,36,Address_890,user890@email.com,Eligible
+User_891,51,138387,Unemployed,30235,818,0.24,60,Address_891,user891@email.com,Needs Review
+User_892,26,118623,Self-Employed,5159,344,0.2,24,Address_892,user892@email.com,Eligible
+User_893,22,122883,Unemployed,17145,538,0.36,12,Address_893,user893@email.com,Eligible
+User_894,40,58756,Unemployed,20373,454,0.18,24,Address_894,user894@email.com,Needs Review
+User_895,48,78268,Employed,36921,480,0.23,24,Address_895,user895@email.com,Eligible
+User_896,31,64214,Self-Employed,44323,514,0.19,12,Address_896,user896@email.com,Eligible
+User_897,24,106871,Unemployed,21237,387,0.13,24,Address_897,user897@email.com,Eligible
+User_898,35,53602,Unemployed,46971,555,0.43,12,Address_898,user898@email.com,Not Eligible
+User_899,26,78331,Employed,13244,810,0.2,60,Address_899,user899@email.com,Eligible
+User_900,50,73901,Employed,19743,372,0.29,24,Address_900,user900@email.com,Eligible
+User_901,58,124986,Unemployed,36566,478,0.12,12,Address_901,user901@email.com,Eligible
+User_902,22,88416,Self-Employed,23691,511,0.38,36,Address_902,user902@email.com,Eligible
+User_903,35,57196,Self-Employed,38996,533,0.23,24,Address_903,user903@email.com,Needs Review
+User_904,31,30626,Employed,10590,764,0.4,60,Address_904,user904@email.com,Needs Review
+User_905,28,32424,Employed,10585,522,0.26,12,Address_905,user905@email.com,Not Eligible
+User_906,46,37857,Unemployed,14227,563,0.18,24,Address_906,user906@email.com,Not Eligible
+User_907,64,135459,Employed,33278,506,0.31,24,Address_907,user907@email.com,Not Eligible
+User_908,25,140621,Unemployed,43814,665,0.15,24,Address_908,user908@email.com,Eligible
+User_909,26,44982,Self-Employed,17237,575,0.28,60,Address_909,user909@email.com,Not Eligible
+User_910,46,101961,Self-Employed,20649,679,0.23,12,Address_910,user910@email.com,Eligible
+User_911,24,26980,Unemployed,42713,608,0.46,36,Address_911,user911@email.com,Eligible
+User_912,39,73290,Employed,12927,567,0.12,36,Address_912,user912@email.com,Not Eligible
+User_913,40,51431,Self-Employed,12016,363,0.38,36,Address_913,user913@email.com,Eligible
+User_914,53,109976,Employed,19027,649,0.17,12,Address_914,user914@email.com,Not Eligible
+User_915,40,132288,Self-Employed,29142,793,0.23,36,Address_915,user915@email.com,Eligible
+User_916,32,107711,Unemployed,28545,822,0.27,60,Address_916,user916@email.com,Not Eligible
+User_917,21,139187,Unemployed,36897,397,0.46,12,Address_917,user917@email.com,Eligible
+User_918,46,51385,Unemployed,8167,370,0.2,24,Address_918,user918@email.com,Not Eligible
+User_919,34,63158,Self-Employed,49757,663,0.14,60,Address_919,user919@email.com,Not Eligible
+User_920,58,48019,Employed,31917,575,0.23,24,Address_920,user920@email.com,Eligible
+User_921,57,43639,Employed,27736,349,0.14,36,Address_921,user921@email.com,Eligible
+User_922,31,110530,Employed,32990,657,0.15,60,Address_922,user922@email.com,Eligible
+User_923,56,124911,Self-Employed,19087,784,0.33,12,Address_923,user923@email.com,Eligible
+User_924,33,46563,Self-Employed,27440,383,0.12,60,Address_924,user924@email.com,Not Eligible
+User_925,63,64341,Self-Employed,40205,595,0.11,24,Address_925,user925@email.com,Needs Review
+User_926,23,140672,Self-Employed,20275,535,0.39,12,Address_926,user926@email.com,Eligible
+User_927,53,30776,Self-Employed,10276,355,0.24,60,Address_927,user927@email.com,Not Eligible
+User_928,26,61444,Employed,46627,659,0.15,60,Address_928,user928@email.com,Not Eligible
+User_929,30,93916,Self-Employed,45586,409,0.2,60,Address_929,user929@email.com,Eligible
+User_930,25,33711,Self-Employed,42496,491,0.36,60,Address_930,user930@email.com,Not Eligible
+User_931,43,99318,Employed,24008,392,0.21,12,Address_931,user931@email.com,Not Eligible
+User_932,30,107970,Self-Employed,10738,359,0.3,24,Address_932,user932@email.com,Eligible
+User_933,64,137301,Employed,37402,338,0.15,60,Address_933,user933@email.com,Eligible
+User_934,22,110553,Employed,10793,839,0.34,12,Address_934,user934@email.com,Eligible
+User_935,33,55707,Unemployed,42291,348,0.23,24,Address_935,user935@email.com,Needs Review
+User_936,60,64110,Unemployed,10571,719,0.35,60,Address_936,user936@email.com,Needs Review
+User_937,22,86788,Unemployed,36331,312,0.42,24,Address_937,user937@email.com,Not Eligible
+User_938,40,107879,Unemployed,21209,335,0.34,24,Address_938,user938@email.com,Eligible
+User_939,21,63827,Self-Employed,30394,400,0.22,12,Address_939,user939@email.com,Eligible
+User_940,57,132188,Unemployed,48148,385,0.2,24,Address_940,user940@email.com,Eligible
+User_941,29,30655,Employed,30682,815,0.23,12,Address_941,user941@email.com,Eligible
+User_942,37,69859,Self-Employed,7224,522,0.17,60,Address_942,user942@email.com,Not Eligible
+User_943,29,78625,Unemployed,46157,637,0.17,24,Address_943,user943@email.com,Needs Review
+User_944,31,77098,Employed,49452,465,0.42,24,Address_944,user944@email.com,Needs Review
+User_945,35,40251,Self-Employed,48408,682,0.25,36,Address_945,user945@email.com,Not Eligible
+User_946,44,147413,Self-Employed,37441,675,0.27,60,Address_946,user946@email.com,Eligible
+User_947,58,25526,Unemployed,46430,770,0.34,60,Address_947,user947@email.com,Eligible
+User_948,55,93760,Self-Employed,44129,330,0.34,36,Address_948,user948@email.com,Eligible
+User_949,50,72837,Employed,39716,674,0.13,36,Address_949,user949@email.com,Not Eligible
+User_950,51,36536,Self-Employed,49859,310,0.43,12,Address_950,user950@email.com,Not Eligible
+User_951,25,53541,Employed,31586,601,0.17,12,Address_951,user951@email.com,Eligible
+User_952,64,104083,Self-Employed,49760,395,0.39,24,Address_952,user952@email.com,Eligible
+User_953,34,76027,Unemployed,28478,489,0.41,24,Address_953,user953@email.com,Eligible
+User_954,31,59531,Employed,11318,752,0.39,24,Address_954,user954@email.com,Eligible
+User_955,29,33712,Self-Employed,33694,491,0.33,24,Address_955,user955@email.com,Eligible
+User_956,54,129101,Self-Employed,25180,785,0.11,12,Address_956,user956@email.com,Eligible
+User_957,32,90455,Self-Employed,17180,565,0.24,60,Address_957,user957@email.com,Eligible
+User_958,55,99744,Employed,38002,723,0.34,24,Address_958,user958@email.com,Not Eligible
+User_959,55,146787,Employed,20372,427,0.25,60,Address_959,user959@email.com,Eligible
+User_960,21,30109,Employed,34796,537,0.45,24,Address_960,user960@email.com,Eligible
+User_961,60,146332,Unemployed,29427,654,0.22,36,Address_961,user961@email.com,Eligible
+User_962,42,74268,Unemployed,38290,411,0.22,24,Address_962,user962@email.com,Eligible
+User_963,49,125737,Employed,33099,745,0.21,24,Address_963,user963@email.com,Eligible
+User_964,28,79615,Self-Employed,14821,642,0.23,24,Address_964,user964@email.com,Eligible
+User_965,31,107503,Unemployed,10832,444,0.32,12,Address_965,user965@email.com,Eligible
+User_966,61,148274,Employed,17820,364,0.38,36,Address_966,user966@email.com,Eligible
+User_967,57,54759,Self-Employed,21211,546,0.37,24,Address_967,user967@email.com,Not Eligible
+User_968,34,110708,Unemployed,44890,789,0.42,24,Address_968,user968@email.com,Eligible
+User_969,50,85112,Self-Employed,10842,738,0.45,60,Address_969,user969@email.com,Not Eligible
+User_970,55,127471,Self-Employed,6316,405,0.43,36,Address_970,user970@email.com,Eligible
+User_971,41,148153,Self-Employed,22508,480,0.11,24,Address_971,user971@email.com,Eligible
+User_972,57,51589,Self-Employed,27005,483,0.39,60,Address_972,user972@email.com,Eligible
+User_973,25,55015,Unemployed,20206,525,0.18,60,Address_973,user973@email.com,Eligible
+User_974,39,54009,Unemployed,23971,388,0.15,12,Address_974,user974@email.com,Needs Review
+User_975,34,108309,Unemployed,30599,829,0.36,60,Address_975,user975@email.com,Not Eligible
+User_976,46,87046,Employed,27056,670,0.23,24,Address_976,user976@email.com,Needs Review
+User_977,24,131661,Unemployed,6378,698,0.12,12,Address_977,user977@email.com,Needs Review
+User_978,45,51143,Self-Employed,6519,405,0.16,12,Address_978,user978@email.com,Not Eligible
+User_979,62,31154,Unemployed,27161,570,0.1,24,Address_979,user979@email.com,Eligible
+User_980,45,46804,Self-Employed,45703,802,0.46,36,Address_980,user980@email.com,Eligible
+User_981,38,66688,Employed,43861,824,0.11,60,Address_981,user981@email.com,Needs Review
+User_982,60,89288,Self-Employed,10355,331,0.18,12,Address_982,user982@email.com,Not Eligible
+User_983,28,76195,Self-Employed,14083,692,0.27,36,Address_983,user983@email.com,Eligible
+User_984,59,45581,Self-Employed,43342,339,0.24,24,Address_984,user984@email.com,Not Eligible
+User_985,60,77648,Employed,25456,517,0.46,60,Address_985,user985@email.com,Eligible
+User_986,34,55087,Unemployed,18324,381,0.12,60,Address_986,user986@email.com,Eligible
+User_987,52,74930,Unemployed,7257,500,0.3,12,Address_987,user987@email.com,Eligible
+User_988,58,57981,Employed,32364,746,0.37,60,Address_988,user988@email.com,Not Eligible
+User_989,53,94298,Self-Employed,29972,727,0.47,60,Address_989,user989@email.com,Not Eligible
+User_990,43,71167,Unemployed,31654,337,0.35,60,Address_990,user990@email.com,Eligible
+User_991,35,100304,Employed,20233,510,0.42,60,Address_991,user991@email.com,Eligible
+User_992,53,68408,Unemployed,20887,743,0.13,24,Address_992,user992@email.com,Eligible
+User_993,45,64499,Employed,34320,626,0.25,36,Address_993,user993@email.com,Not Eligible
+User_994,37,77269,Self-Employed,25808,526,0.25,24,Address_994,user994@email.com,Eligible
+User_995,53,63559,Unemployed,35154,347,0.45,24,Address_995,user995@email.com,Eligible
+User_996,22,139126,Employed,39773,317,0.16,12,Address_996,user996@email.com,Eligible
+User_997,34,99319,Unemployed,32747,738,0.16,60,Address_997,user997@email.com,Eligible
+User_998,60,136925,Unemployed,15860,486,0.23,24,Address_998,user998@email.com,Eligible
+User_999,60,120317,Unemployed,47838,644,0.12,60,Address_999,user999@email.com,Not Eligible
