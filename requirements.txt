@@ -5,7 +5,10 @@ xgboost
 matplotlib
 seaborn
 jupyter
-flask
 azureml-sdk
 azure-storage-blob
 azureml-defaults
+fastapi
+joblib
+numpy
+uvicorn
