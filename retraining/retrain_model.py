@@ -44,4 +44,4 @@ for model_name in ["xgboost_model.pkl", "random_forest_model.pkl"]:
     with open(model_path, "rb") as model_file:
         model_blob.upload_blob(model_file, overwrite=True)
 
-print("✅ Models retrained and uploaded.")
+print(" Models retrained and uploaded.")
