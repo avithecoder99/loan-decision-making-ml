@@ -1,0 +1,32 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: loan-api-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: loan-api
+  template:
+    metadata:
+      labels:
+        app: loan-api
+    spec:
+      containers:
+        - name: loan-api-container
+          image: loanacrregistry.azurecr.io/loan-xgboost-api:v1
+          ports:
+            - containerPort: 8000
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: loan-api-service
+spec:
+  type: LoadBalancer
+  selector:
+    app: loan-api
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 8000
