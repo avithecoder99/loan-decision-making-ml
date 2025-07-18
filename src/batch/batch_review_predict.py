@@ -6,7 +6,7 @@ from datetime import datetime
 
 # === Azure Config ===
 AZURE_ACCOUNT_URL = "https://loanprojectstorage.blob.core.windows.net"
-AZURE_SAS_TOKEN = "sp=r&st=2025-07-17T00:00:45Z&se=2025-07-17T07:57:45Z&sv=2024-11-04&sr=c&sig=RbrBwOMz8nstO4bS9F17emvO5YeLTvu4R%2F3rR79yGso%3D"  # 🔐 Replace with actual SAS token (omit '?')
+AZURE_SAS_TOKEN = " AZURE sas token"  #add your SAS token
 AZURE_CONTAINER_NAME = "loan-data"
 INPUT_BLOB = "needs_review_output.csv"
 OUTPUT_BLOB = "batch_predictions.csv"
