@@ -3,7 +3,7 @@ import os
 
 # Directly define the workspace details
 ws = Workspace(
-    subscription_id="e3c537e3-c050-4e73-a512-646582d34fe7",
+    subscription_id="your sbscription id",
     resource_group="loan-project-rg",                        
     workspace_name="loan-decision-ml-studio"                 
 )
